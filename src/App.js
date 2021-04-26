@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import MainTable from './MainTable';
 
 function App() {
   return (
     <div className="App">
-
+    <MainTable/>
     </div>
   );
 }
