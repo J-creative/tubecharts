@@ -19,38 +19,21 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Switch from '@material-ui/core/Switch';
 import DeleteIcon from '@material-ui/icons/Delete';
 import FilterListIcon from '@material-ui/icons/FilterList';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import { db } from './fire'
 
 
 // getting from firestore
 
-const data = [];
 
- function getFromFirestore(){
-    db.collection('main').orderBy('score', 'desc').limit(2).get()
-    .then(function(querySnapshot) {
-
-      querySnapshot.forEach(function(doc) {
-    data.push(doc.data());
-
-}) 
-console.log(data);
-
-    }).catch((err)=>console.log(err,'there was an error'))
-}
-getFromFirestore();
 
 function createData(name, calories, fat, carbs, protein) {
     return { name, calories, fat, carbs, protein };
   }
-  function createMyData(artist,song,year,score,views) {
-    return { name, calories, fat, carbs, protein };
-  }
 
 
-const rows = [
+let rows = [
   createData('Cupcake', 305, 3.7, 67, 4.3),
   createData('Donut', 452, 25.0, 51, 4.9),
   createData('Eclair', 262, 16.0, 24, 6.0),
@@ -65,6 +48,8 @@ const rows = [
   createData('Nougat', 360, 19.0, 9, 37.0),
   createData('Oreo', 437, 18.0, 63, 4.0),
 ];
+
+
 
 function descendingComparator(a, b, orderBy) {
   if (b[orderBy] < a[orderBy]) {
@@ -241,12 +226,31 @@ const useStyles = makeStyles((theme) => ({
 export default function MainTable() {
   const classes = useStyles();
   const [order, setOrder] = useState('asc');
-  const [orderBy, setOrderBy] = useState('calories');
+  const [orderBy, setOrderBy] = useState('score');
   const [selected, setSelected] = useState([]);
   const [page, setPage] = useState(0);
-  const [dense, setDense] = useState(false);
   const [rowsPerPage, setRowsPerPage] = useState(5);
+  const[data, setData] = useState([]);
 
+useEffect( ()=> {
+     db.collection('main').orderBy('score', 'desc').limit(2).get()
+     .then( function(querySnapshot) {
+      let download = [];
+       querySnapshot.forEach(function(doc) {
+        download.push(doc.data())
+        console.log('dis', doc.data())
+ }) 
+ setData(data => [...data, download]);
+
+ return data
+     }).then(
+       (dl => {
+        console.log('data',data);
+        rows=dl;
+       })
+     ).catch((err)=>console.log(err,'there was an error'))
+ },[])
+;
 
   const handleRequestSort = (event, property) => {
     const isAsc = orderBy === property && order === 'asc';
@@ -292,9 +296,7 @@ export default function MainTable() {
     setPage(0);
   };
 
-  const handleChangeDense = (event) => {
-    setDense(event.target.checked);
-  };
+
 
   const isSelected = (name) => selected.indexOf(name) !== -1;
 
@@ -308,7 +310,7 @@ export default function MainTable() {
           <Table
             className={classes.table}
             aria-labelledby="tableTitle"
-            size={dense ? 'small' : 'medium'}
+            size={ 'medium'}
             aria-label="enhanced table"
           >
             <EnhancedTableHead
@@ -344,17 +346,17 @@ export default function MainTable() {
                         />
                       </TableCell>
                       <TableCell component="th" id={labelId} scope="row" padding="none">
-                        {row.name}
+                        {row.artist}
                       </TableCell>
-                      <TableCell align="right">{row.calories}</TableCell>
-                      <TableCell align="right">{row.fat}</TableCell>
-                      <TableCell align="right">{row.carbs}</TableCell>
-                      <TableCell align="right">{row.protein}</TableCell>
+                      <TableCell align="right">{row.song}</TableCell>
+                      <TableCell align="right">{row.year}</TableCell>
+                      <TableCell align="right">{row.score}</TableCell>
+                      <TableCell align="right">{row.views}</TableCell>
                     </TableRow>
                   );
                 })}
               {emptyRows > 0 && (
-                <TableRow style={{ height: (dense ? 33 : 53) * emptyRows }}>
+                <TableRow style={{ height: (53) * emptyRows }}>
                   <TableCell colSpan={6} />
                 </TableRow>
               )}
@@ -371,10 +373,6 @@ export default function MainTable() {
           onChangeRowsPerPage={handleChangeRowsPerPage}
         />
       </Paper>
-      <FormControlLabel
-        control={<Switch checked={dense} onChange={handleChangeDense} />}
-        label="Dense padding"
-      />
     </div>
   );
 }

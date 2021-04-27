@@ -1,0 +1,835 @@
+[
+  {
+    "rank": 1,
+    "artist": "Drake",
+    "song": "God's Plan",
+    "year": 2018,
+    "misc": "US BB 1 of 2018, Eire 1 for 10 weeks - Feb 2018, Canada Billboard 1 for 10 weeks - Feb 2018, New Zealand 1 for 9 weeks - Feb 2018, Germany 1 for 1 week - Mar 2018, Australia (ARIA) 2 of 2018, Grammy in 2018 (Nominated), MTV Video of the year 2018 (Nominated), Chart2000.com song 2 of 2018"
+  },
+  {
+    "rank": 2,
+    "artist": "Ed Sheeran",
+    "song": "Shape of You",
+    "year": 2017,
+    "misc": "US BB 1 of 2017, Finland 1 for 8 weeks - Jan 2017, Australia (ARIA) 1 of 2017, Eire 1 for 14 weeks - Jan 2017, New Zealand 1 for 13 weeks - Jan 2017, Germany 1 for 15 weeks - Jan 2017, POP 1 of 2017, Chart2000.com song 1 of 2017"
+  },
+  {
+    "rank": 3,
+    "artist": "Drake, Wizkid & Kyla",
+    "song": "One Dance",
+    "year": 2016,
+    "misc": "ODK Germany 1 - Apr 2016 (37 weeks) (1 week at number 1) (16 weeks in top 10), Eire 1 for 11 weeks - May 2016, Canada Billboard 1 for 7 weeks - May 2016, New Zealand 1 for 13 weeks - May 2016, Germany 1 for 1 week - May 2016, Australia (ARIA) 2 of 2016, US BB 3 of 2016, POP 14 of 2016, Acclaim Year 14 of 2016, Italy 23 of 2016, Chart2000.com song 2 of 2016"
+  },
+  {
+    "rank": 4,
+    "artist": "Adele",
+    "song": "Hello",
+    "year": 2015,
+    "misc": "Finland 1 for 3 weeks - Nov 2015, ODK Germany 1 - Nov 2015 (33 weeks) (11 weeks at number 1) (15 weeks in top 10), Eire 1 for 4 weeks - Oct 2015, Canada Billboard 1 for 7 weeks - Nov 2015, New Zealand 1 for 3 weeks - Nov 2015, Germany 1 for 11 weeks - Oct 2015, Grammy in 2016, Brit best song 2016, MTV Video of the year 2016 (Nominated), Australia (ARIA) 5 of 2015, Italy 5 of 2015, US BB 7 of 2016, Acclaim Year 19 of 2015, POP 26 of 2016, Chart2000.com song 24 of 2016"
+  },
+  {
+    "rank": 5,
+    "artist": "Pharrell Williams",
+    "song": "Happy",
+    "year": 2014,
+    "misc": "US BB 1 of 2014, Australia (ARIA) 1 of 2014, ODK Germany 1 - Dec 2013 (62 weeks) (8 weeks at number 1) (19 weeks in top 10), Eire 1 for 12 weeks - Jan 2014, Canada Billboard 1 for 9 weeks - Mar 2014, New Zealand 1 for 15 weeks - Jan 2014, Euro Digital (Billboard) 1 for 12 weeks - Jan 2014, Germany 1 for 8 weeks - Jan 2014, Italy 2 of 2014, Oscar in 2013 (film 'Despicable Me 2') (Nominated), MTV Video of the year 2014 (Nominated), US Radio 13 of 2014 (peak 1 19 weeks), POP 13 of 2014, Billboard100 76, Chart2000.com song 1 of 2014"
+  },
+  {
+    "rank": 6,
+    "artist": "Robin Thicke, T.I. & Pharrell Williams",
+    "song": "Blurred Lines",
+    "year": 2013,
+    "misc": "US Billboard 1 - May 2013 (48 weeks), ARC 1 of 2013 (peak 1 22 weeks), ODK Germany 1 - Apr 2013 (55 weeks) (4 weeks at number 1) (16 weeks in top 10), Eire 1 for 7 weeks - May 2013, Canada Billboard 1 for 13 weeks - Jun 2013, New Zealand 1 for 11 weeks - Apr 2013, Euro Digital (Billboard) 1 for 6 weeks - Jun 2013, Germany 1 for 4 weeks - Jun 2013, POP 1 of 2013, US BB 2 of 2013, US Radio 2 of 2013 (peak 1 21 weeks), Australia (ARIA) 2 of 2013, MTV Video of the year 2013 (Nominated), Italy 5 of 2013, Acclaim Year 17 of 2013, Billboard100 48, Chart2000.com song 1 of 2013"
+  },
+  {
+    "rank": 7,
+    "artist": "Gotye & Kimbra",
+    "song": "Somebody That I Used to Know",
+    "year": 2012,
+    "misc": "US Billboard 1 - Jan 2012 (59 weeks), US BB 1 of 2012, Finland 1 for 3 weeks - Apr 2012, ODK Germany 1 - Dec 2011 (61 weeks) (5 weeks at number 1) (17 weeks in top 10), Germany 2000s 1 - Dec 2011 (21 weeks), Eire 1 for 5 weeks - Feb 2012, Canada Billboard 1 for 6 weeks - Apr 2012, New Zealand 1 for 6 weeks - Sep 2011, Euro Digital (Billboard) 1 for 8 weeks - Feb 2012, Germany 1 for 5 weeks - Dec 2011, ARC 2 of 2012 (peak 1 27 weeks), Australia (ARIA) 2 of 2011, Italy 2 of 2012, MTV Video of the year 2012 (Nominated), US Mediabase 5 of 2012, US Radio 6 of 2012 (peak 1 23 weeks), POP 14 of 2012, 55th Billboard 100 29 (2012), Billboard100 30, Acclaim Year 37 of 2011, Chart2000.com song 1 of 2012, RYM 51 of 2011"
+  },
+  {
+    "rank": 8,
+    "artist": "Rihanna & Calvin Harris",
+    "song": "We Found Love",
+    "year": 2011,
+    "misc": "UK 1 - Oct 2011 (12 weeks), US Billboard 1 - Oct 2011 (41 weeks), US Mediabase 1 of 2012, Finland 1 for 3 weeks - Oct 2011, ODK Germany 1 - Oct 2011 (34 weeks) (4 weeks at number 1) (14 weeks in top 10), Germany 2000s 1 - Oct 2011 (15 weeks), Eire 1 for 7 weeks - Oct 2011, Canada Billboard 1 for 8 weeks - Nov 2011, New Zealand 1 for 9 weeks - Oct 2011, Euro Digital (Billboard) 1 for 10 weeks - Oct 2011, Germany 1 for 4 weeks - Oct 2011, MTV Video of the year 2012, ASCAP song of 2012, ARC 2 of 2011 (peak 1 24 weeks), POP 2 of 2011, US Radio 3 of 2011 (peak 1 25 weeks), US BB 8 of 2012, Acclaim Year 11 of 2011, Australia (ARIA) 12 of 2011, Italy 16 of 2011, 55th Billboard 100 24 (2011), Billboard100 25, Chart2000.com song 9 of 2012"
+  },
+  {
+    "rank": 9,
+    "artist": "Ke$ha",
+    "song": "Tik-Toc",
+    "year": 2010,
+    "misc": "US Billboard 1 - Oct 2009 (38 weeks), US BB 1 of 2010, ARC 1 of 2010 (peak 1 30 weeks), US Radio 1 of 2010 (peak 1 25 weeks), US Mediabase 1 of 2010, ODK Germany 1 - Jan 2010 (49 weeks) (6 weeks at number 1) (14 weeks in top 10), Germany 2000s 1 - Jan 2010 (16 weeks), Canada Billboard 1 for 2 weeks - Nov 2009, New Zealand 1 for 5 weeks - Oct 2009, Australia 1 for 8 weeks - Nov 2009, Germany 1 for 6 weeks - Jan 2010, US (Sup) 5 x Platinum (certified by RIAA in Sep 2010), Holland 2 - Oct 2009 (9 weeks), Norway 3 - Nov 2009 (9 weeks), Italy 3 of 2010, UK 4 - Nov 2009 (42 weeks), Sweden 4 - Oct 2009 (10 weeks), Australia (ARIA) 9 of 2009, POP 13 of 2010, 55th Billboard 100 56 (2010), Billboard100 58, Chart2000.com song 1 of 2010"
+  },
+  {
+    "rank": 10,
+    "artist": "Lady GaGa",
+    "song": "Poker Face",
+    "year": 2009,
+    "misc": "UK 1 - Jan 2009 (84 weeks), US Billboard 1 - Jan 2009 (40 weeks), Holland 1 - Mar 2009 (17 weeks), Sweden 1 - Oct 2008 (37 weeks), Finland 1 for 11 weeks - Jan 2009, Austria 1 - Feb 2009 (9 months), Switzerland 1 - Jan 2009 (50 weeks), Switzerland 1 of 2009, Norway 1 - Nov 2008 (42 weeks), ODK Germany 1 - Mar 2009 (77 weeks) (13 weeks at number 1) (23 weeks in top 10), Germany 2000s 1 - Mar 2009 (25 weeks), Eire 1 for 3 weeks - Feb 2009, Canada Billboard 1 for 9 weeks - Dec 2008, New Zealand 1 for 10 weeks - Nov 2008, Australia 1 for 8 weeks - Nov 2008, Euro Digital (Billboard) 1 for 8 weeks - Mar 2009, Germany 1 for 13 weeks - Mar 2009, Spain 1 for 1 week - Aug 2009, US (Sup) 5 x Platinum (certified by RIAA in Feb 2011), Canada 6 X Platinum (certified by CRIA in Jun 2009), US BB 2 of 2009, Europe 2 of the 2000s (2008), Grammy in 2009 (Nominated), MTV Video of the year 2009 (Nominated), US Mediabase 3 of 2009, Italy 3 of 2009, ARC 5 of 2009 (peak 1 26 weeks), US Radio 7 of 2009 (peak 1 21 weeks), Australia (ARIA) 11 of 2009, Brazil 14 of 2009, nuTsie 45 of 2000s, POP 48 of 2009, Chart2000.com song 1 of 2009"
+  },
+  {
+    "rank": 11,
+    "artist": "Leona Lewis",
+    "song": "Bleeding Love",
+    "year": 2008,
+    "misc": "UK 1 - Nov 2007 (66 weeks), US Billboard 1 - Mar 2008 (39 weeks), Holland 1 - Feb 2008 (19 weeks), Austria 1 - Jan 2008 (6 months), Switzerland 1 - Dec 2007 (65 weeks), Norway 1 - Dec 2007 (23 weeks), Belgium 1 - Jan 2008 (24 weeks), ODK Germany 1 - Jan 2008 (37 weeks) (4 weeks at number 1) (17 weeks in top 10), Germany 2000s 1 - Jan 2008 (18 weeks), Eire 1 for 8 weeks - Oct 2007, Canada Billboard 1 for 1 week - Apr 2008, New Zealand 1 for 5 weeks - Dec 2007, Australia 1 for 5 weeks - Jan 2008, Germany 1 for 4 weeks - Jan 2008, Spain 1 for 1 week - Jul 2008, ASCAP song of 2008, US BB 2 of 2008, US Mediabase 2 of 2008, Sweden 2 - Dec 2007 (17 weeks), Switzerland 2 of 2008, Grammy in 2008 (Nominated), US Platinum (certified by RIAA in Apr 2008), UK Platinum (certified by BPI in Jan 2008), Germany Platinum (certified by BMieV in 2008), Canada Platinum (certified by CRIA in Jul 2008), ARC 3 of 2008 (peak 1 27 weeks), US Radio 3 of 2008 (peak 1 22 weeks), Italy 3 of 2008, Australia (ARIA) 4 of 2008, Europe 11 of the 2000s (2007), Brazil 21 of 2008, Japan (Tokyo) 35 - Dec 2007 (4 weeks), Acclaim Year 41 of 2008, POP 48 of 2008, Chart2000.com song 1 of 2008"
+  },
+  {
+    "rank": 12,
+    "artist": "Rihanna & Jay-Z",
+    "song": "Umbrella",
+    "year": 2007,
+    "misc": "UK 1 - May 2007 (108 weeks), US Billboard 1 - Apr 2007 (33 weeks), Switzerland 1 - Jun 2007 (73 weeks), Norway 1 - Jun 2007 (24 weeks), ODK Germany 1 - Jun 2007 (47 weeks) (5 weeks at number 1) (13 weeks in top 10), Germany 2000s 1 - Jun 2007 (16 weeks), Eire 1 for 8 weeks - May 2007, Canada Billboard 1 for 5 weeks - Jun 2007, New Zealand 1 for 6 weeks - Jun 2007, Australia 1 for 6 weeks - Jun 2007, Europe 1 for 11 weeks - Jun 2007, Germany 1 for 5 weeks - Jun 2007, Spain 1 for 5 weeks - Sep 2007, MTV Video of the year 2007, US 2 X Platinum (certified by RIAA in Oct 2007), US (Sup) 3 x Platinum (certified by RIAA in Jul 2009), US BB 2 of 2007, Japan (Tokyo) 2 - Apr 2007 (16 weeks), Holland 2 - May 2007 (19 weeks), Sweden 2 - May 2007 (37 weeks), Austria 2 - Jun 2007 (6 months), Switzerland 2 of 2007, Grammy in 2007 (Nominated), Australia (ARIA) 3 of 2007, Acclaim Year 3 of 2007, Italy 7 of 2007, POP 7 of 2007, ARC 9 of 2007 (peak 1 25 weeks), Brazil 9 of 2007, US Mediabase 12 of 2007, nuTsie 12 of 2000s, US Radio 16 of 2007 (peak 2 21 weeks), Belgium 21 - Jul 2007 (10 weeks), Europe 64 of the 2000s (2007), UK Silver (certified by BPI in Jul 2007), RYM 181 of 2007, Chart2000.com song 1 of 2007"
+  },
+  {
+    "rank": 13,
+    "artist": "Shakira & Wyclef Jean",
+    "song": "Hips don't lie",
+    "year": 2006,
+    "misc": "UK 1 - Jun 2006 (38 weeks), US Billboard 1 - Apr 2006 (31 weeks), Holland 1 - Apr 2006 (24 weeks), Sweden 1 - Apr 2006 (8 weeks), Switzerland 1 - Apr 2006 (65 weeks), Switzerland 1 of 2006, Belgium 1 - Apr 2006 (31 weeks), Germany 1 - May 2006 (5 months), ODK Germany 1 - May 2006 (29 weeks) (3 weeks at number 1) (16 weeks in top 10), Eire 1 for 9 weeks - Jun 2006, New Zealand 1 for 1 week - May 2006, Australia 1 for 9 weeks - Jun 2006, Europe 1 for 15 weeks - May 2006, Germany 1 for 3 weeks - May 2006, Spain 1 for 9 weeks - Apr 2006, US 2 X Platinum (certified by RIAA in Dec 2006), ARC 2 of 2006 (peak 1 28 weeks), Austria 2 - May 2006 (7 months), Norway 2 - Apr 2006 (26 weeks), POP 2 of 2006, MTV Video of the year 2006 (Nominated), Germany Platinum (certified by BMieV in 2006), US Radio 3 of 2006 (peak 1 22 weeks), Australia (ARIA) 3 of 2006, Italy 3 of 2006, France Gold (certified by SNEP in Nov 2006), US BB 5 of 2006, Brazil 5 of 2006, Japan (Tokyo) 14 - May 2006 (13 weeks), Scrobulate 26 of latin, nuTsie 69 of 2000s, Europe 80 of the 2000s (2006), RYM 114 of 2006, Chart2000.com song 1 of 2006, Global 7 (10 M sold) - 2006, Party 64 of 2007"
+  },
+  {
+    "rank": 14,
+    "artist": "Madonna",
+    "song": "Hung Up",
+    "year": 2005,
+    "misc": "UK 1 - Nov 2005 (29 weeks), Japan (Tokyo) 1 - Oct 2005 (27 weeks), Holland 1 - Nov 2005 (20 weeks), Sweden 1 - Dec 2005 (12 weeks), Finland 1 for 2 weeks - Nov 2005, Austria 1 - Dec 2005 (6 months), Switzerland 1 - Nov 2005 (99 weeks), Norway 1 - Nov 2005 (21 weeks), Belgium 1 - Nov 2005 (20 weeks), Germany 1 - Jan 2006 (5 months), ODK Germany 1 - Nov 2005 (28 weeks) (9 weeks at number 1) (14 weeks in top 10), Canada Billboard 1 for 2 weeks - Dec 2005, Australia 1 for 1 week - Nov 2005, Europe 1 for 12 weeks - Nov 2005, Germany 1 for 9 weeks - Nov 2005, Spain 1 for 6 weeks - Dec 2005, Scrobulate 1 of pop, MTV Video of the year 2006 (Nominated), US Platinum (certified by RIAA in Aug 2008), Germany Platinum (certified by BMieV in 2006), Poland 4 - Oct 2005 (18 weeks), Acclaim Year 4 of 2005, US Billboard 7 - Nov 2005 (20 weeks), Japan (Osaku) 8 of 2006 (peak 1 16 weeks), Switzerland 10 of 2006, Australia (ARIA) 38 of 2006, Australia 39 of 2005, Brazil 40 of 2006, POP 44 of 2005, France (InfoDisc) 52 of the 2000s (peak 1, 24 weeks, 409k sales estimated, 2005), US Radio 68 of 2005 (peak 16 6 weeks), US BB 91 of 2006, Germany 111 of the 2000s (peak 1 7 weeks), RYM 62 of 2005, Chart2000.com song 50 of 2006, Party 194 of 2007"
+  },
+  {
+    "rank": 15,
+    "artist": "Usher",
+    "song": "Yeah!",
+    "year": 2004,
+    "misc": "UK 1 - Mar 2004 (15 weeks), US Billboard 1 - Jan 2004 (45 weeks), US BB 1 of 2004, US Radio 1 of 2004 (peak 1 31 weeks), Holland 1 - Mar 2004 (15 weeks), Switzerland 1 - Mar 2004 (24 weeks), Norway 1 - Mar 2004 (19 weeks), Germany 1 - Mar 2004 (5 months), ODK Germany 1 - Mar 2004 (25 weeks) (4 weeks at number 1) (13 weeks in top 10), Eire 1 for 2 weeks - Apr 2004, Canada Billboard 1 for 10 weeks - May 2004, New Zealand 1 for 4 weeks - Apr 2004, Australia 1 for 1 week - Mar 2004, Europe 1 for 8 weeks - Apr 2004, Germany 1 for 4 weeks - Apr 2004, POP 1 of 2004, Top Song of 2004 of the Billboard 50th list, Japan (Tokyo) 2 - Feb 2004 (23 weeks), Austria 2 - Mar 2004 (8 months), Grammy in 2004 (Nominated), MTV Video of the year 2004 (Nominated), US Platinum (certified by RIAA in Nov 2006), Canada Platinum (certified by CRIA in Sep 2004), ARC 3 of 2004 (peak 1 24 weeks), Switzerland 4 of 2004, France 6 - Mar 2004 (2 weeks), Italy 6 of 2004, Acclaim Year 7 of 2004, Billboard 50th song 11, 55th Billboard 100 13 (2004), nuTsie 13 of 2000s, Billboard100 14, Sweden 15 - Apr 2004 (5 weeks), Germany 19 of the 2000s (peak 1 16 weeks), Poland 41 - May 2004 (4 weeks), Scrobulate 50 of rnb, Acclaimed 640 (2004), RYM 139 of 2004, Chart2000.com song 1 of 2004, Party 24 of 2007"
+  },
+  {
+    "rank": 16,
+    "artist": "OutKast",
+    "song": "Hey Ya!",
+    "year": 2003,
+    "misc": "US Billboard 1 - Oct 2003 (32 weeks), Sweden 1 - Oct 2003 (14 weeks), Norway 1 - Nov 2003 (21 weeks), Poland 1 - Nov 2003 (19 weeks), Canada Billboard 1 for 8 weeks - Jan 2004, Australia 1 for 2 weeks - Jan 2004, Spain 1 for 1 week - Apr 2004, MTV Video of the year 2004, nuTsie 1 of 2000s, Acclaim Year 1 of 2003, ARC 2 of 2003 (peak 1 22 weeks), POP 2 of 2003, Grammy in 2003 (Nominated), US Platinum (certified by RIAA in Nov 2006), UK 3 - Nov 2003 (21 weeks), US Radio 3 of 2003 (peak 1 22 weeks), Brazil 3 of 2004, Austria 4 - Dec 2003 (5 months), Italy 5 of 2004, Germany 6 - Jan 2004 (5 months), ODK Germany 6 - Nov 2003 (27 weeks) (7 weeks in top 10), US BB 8 of 2004, Japan (Tokyo) 8 - Sep 2003 (27 weeks), Scrobulate 8 of hip-hop, Switzerland 9 - Nov 2003 (26 weeks), Australia 20 of 2004, Holland 22 - Nov 2003 (19 weeks), Vinyl Surrender 42 (2003), Acclaimed 59 (2003), Japan (Osaku) 73 of 2004 (peak 17 26 weeks), Rolling Stone 180, Germany 213 of the 2000s (peak 6 12 weeks), RYM 4 of 2003, Guardian Hip-Hop/ RnB 85, Chart2000.com song 8 of 2004, Party 7 of 2007"
+  },
+  {
+    "rank": 17,
+    "artist": "Eminem",
+    "song": "Lose Yourself",
+    "year": 2002,
+    "misc": "UK 1 - Dec 2002 (27 weeks), US Billboard 1 - Oct 2002 (23 weeks), Japan (Tokyo) 1 - Dec 2002 (28 weeks), Holland 1 - Dec 2002 (17 weeks), Sweden 1 - Jan 2003 (10 weeks), Finland 1 for 3 weeks - Jan 2003, Switzerland 1 - Dec 2002 (28 weeks), Norway 1 - Dec 2002 (17 weeks), Germany 1 - Jan 2003 (4 months), Eire 1 for 5 weeks - Dec 2002, New Zealand 1 for 4 weeks - Jan 2003, Australia 1 for 12 weeks - Dec 2002, Europe 1 for 8 weeks - Jan 2003, Spain 1 for 1 week - Mar 2003, Oscar in 2002 (film 'Eight Mile'), Scrobulate 1 of rap, Austria 2 - Jan 2003 (6 months), ODK Germany 2 - Dec 2002 (30 weeks) (13 weeks in top 10), nuTsie 2 of 2000s, Grammy in 2003 (Nominated), Golden Globe in 2002 (film '8 Mile') (Nominated), MTV Video of the year 2003 (Nominated), Italy 3 of 2003, US Gold (certified by RIAA in Oct 2004), France Gold (certified by SNEP in Aug 2003), US Radio 6 of 2002 (peak 1 18 weeks), Australia 7 of 2003, Japan (Osaku) 12 of 2003 (peak 1 30 weeks), Switzerland 12 of 2003, ARC 13 of 2002 (peak 1 19 weeks), POP 23 of 2002, US BB 28 of 2003, Germany 42 of the 2000s (peak 2 14 weeks), AFI 93, Rolling Stone 166, Acclaimed 425 (2002), UK Silver (certified by BPI in Dec 2002), RYM 11 of 2002, Chart2000.com song 23 of 2003"
+  },
+  {
+    "rank": 18,
+    "artist": "Kylie Minogue",
+    "song": "Can't Get You Out of My Head",
+    "year": 2001,
+    "misc": "UK 1 - Sep 2001 (25 weeks), Holland 1 - Sep 2001 (19 weeks), Sweden 1 - Sep 2001 (14 weeks), Austria 1 - Oct 2001 (5 months), Switzerland 1 - Sep 2001 (28 weeks), Switzerland 1 of 2001, Norway 1 - Oct 2001 (21 weeks), Belgium 1 - Sep 2001 (22 weeks), Italy 1 of 2001, Germany 1 - Jan 2002 (5 months), ODK Germany 1 - Oct 2001 (22 weeks) (1 week at number 1) (12 weeks in top 10), Eire 1 for 4 weeks - Sep 2001, New Zealand 1 for 3 weeks - Oct 2001, Australia 1 for 4 weeks - Sep 2001, Europe 1 for 16 weeks - Oct 2001, Germany 1 for 1 week - Nov 2001, Spain 1 for 1 week - Nov 2001, UK Platinum (certified by BPI in Sep 2001), France Platinum (certified by SNEP in Dec 2001), Germany Platinum (certified by BMieV in 2001), US Gold (certified by RIAA in Aug 2005), Japan (Tokyo) 5 - Nov 2001 (17 weeks), France 5 - Sep 2001 (2 weeks), Brazil 5 of 2002, US Billboard 7 - Jan 2002 (20 weeks), Australia 11 of 2001, ARC 12 of 2002 (peak 1 17 weeks), POP 12 of 2002, US Radio 23 of 2002 (peak 3 16 weeks), France (InfoDisc) 24 of the 2000s (peak 1, 30 weeks, 918k sales estimated, 2001), Germany 31 of the 2000s (peak 1 15 weeks), nuTsie 41 of 2000s, US BB 45 of 2002, Scrobulate 48 of pop, Japan (Osaku) 55 of 2002 (peak 6 29 weeks), Vinyl Surrender 55 (2001), UKMIX 111, Acclaimed 244 (2001), OzNet 282, RYM 27 of 2001, Guardian Pop 90, Chart2000.com song 32 of 2002, Global 33 (5 M sold) - 2001"
+  },
+  {
+    "rank": 19,
+    "artist": "Madonna",
+    "song": "Music",
+    "year": 2000,
+    "misc": "UK 1 - Sep 2000 (23 weeks), US Billboard 1 - Aug 2000 (24 weeks), Japan (Tokyo) 1 - Aug 2000 (25 weeks), Sweden 1 - Aug 2000 (10 weeks), Switzerland 1 - Sep 2000 (15 weeks), Norway 1 - Sep 2000 (10 weeks), Canada RPM 1 for 9 weeks - Sep 2000, New Zealand 1 for 1 week - Oct 2000, Australia 1 for 4 weeks - Aug 2000, Europe 1 for 6 weeks - Sep 2000, Spain 1 for 1 week - Oct 2000, ODK Germany 2 - Sep 2000 (16 weeks) (7 weeks in top 10), Grammy in 2000 (Nominated), US Platinum (certified by RIAA in Oct 2000), Holland 4 - Aug 2000 (12 weeks), Poland 4 - Aug 2000 (13 weeks), Germany 4 - Aug 2000 (3 months), France Gold (certified by SNEP in Jul 2001), Germany Gold (certified by BMieV in 2000), Austria 6 - Sep 2000 (3 months), Belgium 6 - Aug 2000 (11 weeks), Italy 7 of 2000, Brazil 8 of 2000, Australia 11 of 2000, US Radio 15 of 2000 (peak 2 17 weeks), US BB 17 of 2000, ARC 19 of 2000 (peak 1 16 weeks), Switzerland 19 of 2000, Japan (Osaku) 27 of 2000 (peak 3 16 weeks), POP 33 of 2000, nuTsie 71 of 2000s, Scrobulate 87 of pop, Germany 196 of the 2000s (peak 2 8 weeks), UKMIX 533, Acclaimed 674 (2000), RYM 33 of 2000, Chart2000.com song 12 of 2000, Party 41 of 1999"
+  },
+  {
+    "rank": 20,
+    "artist": "Britney Spears",
+    "song": "Baby One More Time",
+    "year": 1999,
+    "misc": "UK 1 - Feb 1999 (22 weeks), US Billboard 1 - Nov 1998 (32 weeks), Holland 1 - Jan 1999 (22 weeks), Sweden 1 - Jan 1999 (11 weeks), Finland 1 for 1 week - Apr 1999, Austria 1 - Mar 1999 (5 months), Switzerland 1 - Feb 1999 (25 weeks), Norway 1 - Feb 1999 (16 weeks), Belgium 1 - Feb 1999 (19 weeks), Australia 1 of 1999, Germany 1 - Feb 1999 (5 months), ODK Germany 1 - Feb 1999 (22 weeks) (6 weeks at number 1) (15 weeks in top 10), Eire 1 for 6 weeks - Feb 1999, Canada RPM 1 for 1 week - Feb 1999, New Zealand 1 for 4 weeks - Feb 1999, Australia 1 for 9 weeks - Feb 1999, Europe 1 for 10 weeks - Mar 1999, Germany 1 for 6 weeks - Mar 1999, Spain 1 for 1 week - Jun 1999, US Platinum (certified by RIAA in Jan 1999), France Platinum (certified by SNEP in Dec 1999), Germany Platinum (certified by BMieV in 1999), US Radio 3 of 1999 (peak 1 27 weeks), Switzerland 3 of 1999, ARC 4 of 1999 (peak 1 24 weeks), US BB 5 of 1999, Japan (Tokyo) 5 - Feb 1999 (23 weeks), France 6 - Jan 1999 (2 weeks), Japan (Osaku) 7 of 1999 (peak 2 32 weeks), Italy 7 of 1999, UK sales 8 of the 1990s (1,450 k in 1999), Canada 19 of 1999, POP 29 of 1999, Poland 40 - Mar 1999 (4 weeks), Germany 41 of the 1990s (peak 1 18 weeks), France (InfoDisc) 77 of the 1990s (peak 1, 30 weeks, 578k sales estimated, 1999), Scrobulate 91 of upbeat, Brazil 94 of 1999, Vinyl Surrender 139 (1999), UKMIX 307, OzNet 814, Acclaimed 875 (1999), RYM 95 of 1998"
+  },
+  {
+    "rank": 21,
+    "artist": "Celine Dion",
+    "song": "My Heart Will Go On",
+    "year": 1998,
+    "misc": "UK 1 - Feb 1998 (21 weeks), US Billboard 1 - Feb 1998 (20 weeks), ARC 1 of 1998 (peak 1 25 weeks), Japan (Osaku) 1 of 1998 (peak 1 48 weeks), Japan (Tokyo) 1 - Dec 1997 (48 weeks), Holland 1 - Jan 1998 (20 weeks), Sweden 1 - Feb 1998 (17 weeks), Finland 1 for 1 week - Feb 1998, Austria 1 - Feb 1998 (6 months), Switzerland 1 - Jan 1998 (43 weeks), Switzerland 1 of 1998, Norway 1 - Feb 1998 (20 weeks), Belgium 1 - Feb 1998 (25 weeks), Germany 1 - Jan 1998 (6 months), ODK Germany 1 - Jan 1998 (40 weeks) (13 weeks at number 1) (21 weeks in top 10), Eire 1 for 6 weeks - Feb 1998, Canada RPM 1 for 6 weeks - Mar 1998, Canada 1 of 1998, Australia 1 for 4 weeks - Feb 1998, Europe 1 for 17 weeks - Feb 1998, Germany 1 for 13 weeks - Jan 1998, Spain 1 for 1 week - Apr 1998, Oscar in 1997 (film 'Titanic'), Grammy in 1998, Golden Globe in 1997 (film 'Titanic'), UK 2 x Platinum (certified by BPI in Apr 1998), France Diamond (certified by SNEP in Apr 1998), Germany 4 x Platinum (certified by BMieV in 1998), Poland 2 - Jan 1998 (20 weeks), Australia 3 of 1998, Italy 4 of 1998, US Gold (certified by RIAA in Mar 1998), Germany 7 of the 1990s (peak 1 24 weeks), POP 9 of 1998, Brazil 10 of 1998, US Radio 12 of 1998 (peak 1 16 weeks), US BB 13 of 1998, Europe 14 of the 1990s (1998), AFI 14, France (InfoDisc) 27 of the 1990s (peak 1, 22 weeks, 1,197k sales estimated, 1998), Scrobulate 67 of soundtrack, DMDB 76 (1997), OzNet 162, RIAA 246, UKMIX 248, Acclaimed 1784 (1998), Global 7 (10 M sold) - 1997, Party 48 of 1999"
+  },
+  {
+    "rank": 22,
+    "artist": "Elton John",
+    "song": "Candle in the Wind '97",
+    "year": 1997,
+    "misc": "UK 1 - Sep 1997 (25 weeks), US Billboard 1 - Oct 1997 (42 weeks), US BB 1 of 1997, Holland 1 - Sep 1997 (17 weeks), Finland 1 for 2 weeks - Sep 1997, Austria 1 - Oct 1997 (7 months), Switzerland 1 - Sep 1997 (30 weeks), Norway 1 - Jan 1997 (22 weeks), Poland 1 - Sep 1997 (16 weeks), Belgium 1 - Sep 1997 (20 weeks), Germany 1 - Jan 1998 (5 months), ODK Germany 1 - Sep 1997 (23 weeks) (7 weeks at number 1) (16 weeks in top 10), Eire 1 for 5 weeks - Sep 1997, Canada Billboard 1 for 1 week - Jan 2002, New Zealand 1 for 6 weeks - Oct 1997, Japan 1 for 2 weeks - Sep 1997, Australia 1 for 6 weeks - Oct 1997, Europe 1 for 6 weeks - Oct 1997, Germany 1 for 7 weeks - Sep 1997, Spain 1 for 1 week - Nov 1997, UK sales 1 of the 1990s (4,860 k in 1997), Top Song of 1997 of the Billboard 50th list, US 11 X Platinum (certified by RIAA in Oct 1997), UK 9 x Platinum (certified by BPI in Oct 1997), France Diamond (certified by SNEP in Dec 1997), Germany 9 x Platinum (certified by BMieV in 1998), Australia 4 of 1997, Japan 11 of all time (international songs) (sales 0.63), Italy 12 of 1997, DMDB 15 (1997), Japan (Tokyo) 21 - Sep 1997 (8 weeks), Switzerland 21 of 1997, Brazil 25 of 1997, TOTP 33, Germany 37 of the 1990s (peak 1 16 weeks), Billboard 50th song 41, 55th Billboard 100 47 (1997), Billboard100 49, UKMIX 86, Canada 96 of 1997, OzNet 433, RYM 85 of 1997, Global 2 (35 M sold) - 1997"
+  },
+  {
+    "rank": 23,
+    "artist": "Spice Girls",
+    "song": "Wannabe",
+    "year": 1996,
+    "misc": "UK 1 - Jul 1996 (26 weeks), US Billboard 1 - Jan 1997 (23 weeks), Holland 1 - Aug 1996 (13 weeks), Sweden 1 - Aug 1996 (8 weeks), Finland 1 for 1 week - Sep 1996, Switzerland 1 - Aug 1996 (23 weeks), Norway 1 - Aug 1996 (16 weeks), Belgium 1 - Aug 1996 (15 weeks), Germany 1 - Aug 1996 (3 months), ODK Germany 1 - Aug 1996 (23 weeks) (4 weeks at number 1) (9 weeks in top 10), Eire 1 for 4 weeks - Aug 1996, New Zealand 1 for 1 week - Nov 1996, Australia 1 for 11 weeks - Nov 1996, Europe 1 for 9 weeks - Sep 1996, Germany 1 for 4 weeks - Sep 1996, Spain 1 for 1 week - Nov 1996, Brit best song 1997, France Diamond (certified by SNEP in Jun 1997), US Platinum (certified by RIAA in Mar 1997), UK Platinum (certified by BPI in Aug 1996), POP 3 of 1997, Austria 4 - Aug 1996 (4 months), Germany Gold (certified by BMieV in 1996), Australia 5 of 1996, Japan (Osaku) 6 of 1996 (peak 1 25 weeks), ARC 8 of 1997 (peak 1 18 weeks), US BB 10 of 1997, Switzerland 18 of 1996, Brazil 19 of 1997, US Radio 20 of 1997 (peak 4 17 weeks), Poland 22 - Aug 1996 (10 weeks), Italy 31 of 1996, Vinyl Surrender 33 (1996), France (InfoDisc) 49 of the 1990s (peak 1, 24 weeks, 742k sales estimated, 1996), Scrobulate 59 of pop, Canada 68 of 1997, Japan (Tokyo) 95 - Jun 1996 (2 weeks), UKMIX 115, Germany 170 of the 1990s (peak 1 11 weeks), OzNet 963, Acclaimed 1504 (1996), RYM 94 of 1996, Guardian Pop 84, Global 33 (5 M sold) - 1996"
+  },
+  {
+    "rank": 24,
+    "artist": "Coolio",
+    "song": "Gangsta's Paradise",
+    "year": 1995,
+    "misc": "UK 1 - Oct 1995 (27 weeks), US Billboard 1 - Aug 1995 (38 weeks), US BB 1 of 1995, Holland 1 - Oct 1995 (19 weeks), Sweden 1 - Oct 1995 (15 weeks), Finland 1 for 9 weeks - Oct 1995, Austria 1 - Nov 1995 (6 months), Switzerland 1 - Nov 1995 (26 weeks), Norway 1 - Oct 1995 (25 weeks), Belgium 1 - Nov 1995 (24 weeks), Italy 1 of 1996, Italy 1 for 9 weeks - Dec 1995, Germany 1 - Jan 1996 (6 months), ODK Germany 1 - Oct 1995 (36 weeks) (8 weeks at number 1) (19 weeks in top 10), Eire 1 for 4 weeks - Oct 1995, New Zealand 1 for 9 weeks - Oct 1995, Australia 1 for 11 weeks - Oct 1995, Europe 1 for 14 weeks - Nov 1995, Germany 1 for 8 weeks - Oct 1995, Top Song of 1995 of the Billboard 50th list, US 3 X Platinum (certified by RIAA in Feb 1996), Germany 2 x Platinum (certified by BMieV in 1996), Grammy in 1995 (Nominated), UK Platinum (certified by BPI in Nov 1995), France 3 - Oct 1995 (1 week), Poland 3 - Oct 1995 (22 weeks), Australia 6 of 1995, US CashBox 12 of 1995, nuTsie 12 of 1990s, ARC 14 of 1995 (peak 1 15 weeks), France (InfoDisc) 14 of the 1990s (peak 1, 29 weeks, 672k sales estimated, 1995), Switzerland 15 of 1996, Germany 16 of the 1990s (peak 1 22 weeks), Scrobulate 27 of rap, Japan (Tokyo) 28 - Oct 1995 (13 weeks), POP 31 of 1995, Brazil 37 of 1995, Europe 48 of the 1990s (1995), Billboard 50th song 69, 55th Billboard 100 79 (1995), Billboard100 85, UKMIX 158, Acclaimed 439 (1995), RYM 69 of 1995, Global 33 (5 M sold) - 1995"
+  },
+  {
+    "rank": 25,
+    "artist": "Ace of Base",
+    "song": "The Sign",
+    "year": 1994,
+    "misc": "US Billboard 1 - Jan 1994 (41 weeks), US BB 1 of 1994, Japan (Osaku) 1 of 1994 (peak 1 28 weeks), Japan (Tokyo) 1 - Feb 1994 (25 weeks), Finland 1 for 3 weeks - Nov 1993, Germany 1 - Jan 1994 (5 months), ODK Germany 1 - Nov 1993 (30 weeks) (3 weeks at number 1) (14 weeks in top 10), Canada RPM 1 for 5 weeks - Feb 1994, New Zealand 1 for 5 weeks - Apr 1994, Australia 1 for 4 weeks - Apr 1994, Germany 1 for 3 weeks - Jan 1994, Top Song of 1994 of the Billboard 50th list, UK 2 - Feb 1994 (16 weeks), Sweden 2 - Nov 1993 (12 weeks), US Platinum (certified by RIAA in Apr 1994), Germany Platinum (certified by BMieV in 1994), Holland 3 - Dec 1993 (14 weeks), Austria 3 - Dec 1993 (5 months), Brazil 3 of 1994, US Radio 4 of 1994 (peak 1 23 weeks), Switzerland 4 - Nov 1993 (26 weeks), UK Gold (certified by BPI in Apr 1994), US CashBox 5 of 1994, Norway 5 - Nov 1993 (12 weeks), Australia 5 of 1994, Belgium 6 - Jan 1994 (14 weeks), Canada 8 of 1994, France 9 - Dec 1993 (1 week), POP 9 of 1994, ARC 13 of 1994 (peak 1 18 weeks), Italy 21 of 1994, Switzerland 22 of 1994, Billboard 50th song 51, Germany 58 of the 1990s (peak 1 18 weeks), 55th Billboard 100 60 (1994), Billboard100 62, RYM 126 of 1993"
+  },
+  {
+    "rank": 26,
+    "artist": "UB40",
+    "song": "Can't Help Falling in Love",
+    "year": 1993,
+    "misc": "UK 1 - May 1993 (16 weeks), US Billboard 1 - May 1993 (29 weeks), US CashBox 1 of 1993, Japan (Tokyo) 1 - Jun 1993 (23 weeks), Holland 1 - May 1993 (17 weeks), Sweden 1 - Jun 1993 (6 weeks), Finland 1 for 2 weeks - Jun 1993, Austria 1 - Jul 1993 (4 months), Belgium 1 - Jun 1993 (15 weeks), Canada RPM 1 for 2 weeks - Jul 1993, New Zealand 1 for 11 weeks - Jun 1993, Australia 1 for 7 weeks - Jul 1993, Europe 1 for 2 weeks - Jul 1993, Spain 1 for 1 week - Aug 1993, ASCAP song of 1993, Japan (Osaku) 2 of 1993 (peak 1 29 weeks), Switzerland 2 - Jun 1993 (26 weeks), Germany 2 - Jun 1993 (5 months), ODK Germany 2 - Jun 1993 (29 weeks) (14 weeks in top 10), US Platinum (certified by RIAA in Aug 1993), UK Platinum (certified by BPI in Jul 1993), US BB 3 of 1993, Australia 3 of 1993, US Radio 4 of 1993 (peak 1 13 weeks), Norway 4 - Jun 1993 (11 weeks), Switzerland 6 of 1993, Canada 6 of 1993, POP 6 of 1993, ARC 7 of 1993 (peak 1 19 weeks), France 10 - May 1993 (1 week), Poland 12 - Aug 1993 (14 weeks), Brazil 31 of 1993, Scrobulate 48 of reggae, Germany 85 of the 1990s (peak 2 17 weeks), Italy 88 of 1993, UKMIX 421, OzNet 836"
+  },
+  {
+    "rank": 27,
+    "artist": "Whitney Houston",
+    "song": "I Will Always Love You",
+    "year": 1992,
+    "misc": "UK 1 - Nov 1992 (29 weeks), US Billboard 1 - Nov 1992 (26 weeks), US BB 1 of 1993, ARC 1 of 1993 (peak 1 21 weeks), Japan (Tokyo) 1 - Nov 1992 (18 weeks), Holland 1 - Nov 1992 (19 weeks), Sweden 1 - Nov 1992 (12 weeks), Brazil 1 of 1993, Switzerland 1 - Dec 1992 (30 weeks), Norway 1 - Dec 1992 (16 weeks), Poland 1 - Nov 1992 (22 weeks), Belgium 1 - Nov 1992 (21 weeks), Italy 1 for 2 weeks - Dec 1992, Germany 1 - Jan 1993 (5 months), ODK Germany 1 - Nov 1992 (32 weeks) (6 weeks at number 1) (13 weeks in top 10), Eire 1 for 8 weeks - Dec 1992, Canada RPM 1 for 8 weeks - Dec 1992, Canada 1 of 1993, New Zealand 1 for 11 weeks - Dec 1992, Australia 1 for 2 weeks - Dec 1992, Europe 1 for 13 weeks - Dec 1992, Germany 1 for 6 weeks - Jan 1993, Spain 1 for 2 weeks - Jan 1993, Grammy in 1993, Grammy Hall of Fame in 2018 (1992), Top Song of 1993 of the Billboard 50th list, US 4 X Platinum (certified by RIAA in Jan 1993), UK 2 x Platinum (certified by BPI in Jan 1993), US Radio 2 of 1992 (peak 1 11 weeks), Austria 2 - Dec 1992 (4 months), Australia 2 of 1993, Germany Platinum (certified by BMieV in 1993), Japan (Osaku) 4 of 1993 (peak 1 23 weeks), US CashBox 5 of 1993, Japan 5 of all time (international songs) (sales 0.75), Switzerland 7 of 1993, Italy 7 of 1992, UK sales 10 of the 1990s (1,350 k in 1992), POP 10 of 1992, DMDB 11 (1992), Europe 19 of the 1990s (1992), TOTP 19, UKMIX 27, 55th Billboard 100 49 (1992), Billboard100 51, AFI 65, Germany 67 of the 1990s (peak 1 17 weeks), Billboard 50th song 68, Scrobulate 90 of ballad, RIAA 108, Acclaimed 802 (1992), RYM 172 of 1992, NY Daily Love list 33, Global 7 (10 M sold) - 1992, Party 280 of 1999"
+  },
+  {
+    "rank": 28,
+    "artist": "Bryan Adams",
+    "song": "(Everything I Do) I Do it For You",
+    "year": 1991,
+    "misc": "UK 1 - Jun 1991 (25 weeks), US Billboard 1 - Jun 1991 (22 weeks), US BB 1 of 1991, US CashBox 1 of 1991, ARC 1 of 1991 (peak 1 17 weeks), US Radio 1 of 1991 (peak 1 12 weeks), Holland 1 - Jul 1991 (21 weeks), Sweden 1 - Aug 1991 (15 weeks), Finland 1 for 1 week - Aug 1991, Austria 1 - Aug 1991 (8 months), Brazil 1 of 1991, Switzerland 1 - Jul 1991 (34 weeks), Norway 1 - Jul 1991 (21 weeks), Poland 1 - Jul 1991 (44 weeks), Belgium 1 - Jul 1991 (20 weeks), Germany 1 - Jan 1992 (7 months), ODK Germany 1 - Jul 1991 (34 weeks) (5 weeks at number 1) (23 weeks in top 10), Eire 1 for 11 weeks - Jul 1991, Canada RPM 1 for 9 weeks - Aug 1991, Canada 1 of 1991, New Zealand 1 for 8 weeks - Aug 1991, Australia 1 for 11 weeks - Jul 1991, Europe 1 for 18 weeks - Jul 1991, Germany 1 for 5 weeks - Oct 1991, Spain 1 for 1 week - Oct 1991, Top Song of 1991 of the Billboard 50th list, US 3 X Platinum (certified by RIAA in Sep 1991), UK 2 x Platinum (certified by BPI in Sep 1991), Japan (Tokyo) 2 - Jul 1991 (30 weeks), Oscar in 1991 (film 'Robin Hood: Prince of Thieves') (Nominated), Grammy in 1991 (Nominated), Golden Globe in 1991 (film 'Robin Hood: Prince of Thieves') (Nominated), Germany Platinum (certified by BMieV in 1991), Switzerland 3 of 1991, Australia 3 of 1991, POP 3 of 1991, Europe 5 of the 1990s (1991), TOTP 6, UK sales 7 of the 1990s (1,520 k in 1991), Japan (Osaku) 9 of 1991 (peak 1 21 weeks), Italy 9 of 1991, Germany 9 of the 1990s (peak 1 25 weeks), UKMIX 10, Billboard 50th song 16, 55th Billboard 100 18 (1991), Billboard100 19, Scrobulate 30 of ballad, France (InfoDisc) 46 of the 1990s (peak 1, 30 weeks, 508k sales estimated, 1991), nuTsie 55 of 1990s, Virgin 60, DMDB 78 (1991), Poland 96 of all time, Holland free40 99 of 1991, OzNet 121, Belgium 150 of all time, RYM 73 of 1991, Global 7 (10 M sold) - 1991, Party 70 of 2007"
+  },
+  {
+    "rank": 29,
+    "artist": "Sinead O'Connor",
+    "song": "Nothing Compares 2 U",
+    "year": 1990,
+    "misc": "UK 1 - Jan 1990 (16 weeks), US Billboard 1 - Mar 1990 (21 weeks), ARC 1 of 1990 (peak 1 15 weeks), Japan (Tokyo) 1 - Mar 1990 (18 weeks), Holland 1 - Jan 1990 (16 weeks), Sweden 1 - Feb 1990 (12 weeks), Finland 1 for 1 week - Mar 1990, Austria 1 - Mar 1990 (5 months), Switzerland 1 - Feb 1990 (29 weeks), Norway 1 - Feb 1990 (16 weeks), Poland 1 - Mar 1990 (51 weeks), Belgium 1 - Feb 1990 (16 weeks), Italy 1 for 1 week - Mar 1990, Germany 1 - Feb 1990 (5 months), ODK Germany 1 - Feb 1990 (32 weeks) (11 weeks at number 1) (16 weeks in top 10), Eire 1 for 6 weeks - Jan 1990, Canada RPM 1 for 5 weeks - May 1990, New Zealand 1 for 5 weeks - Apr 1990, Australia 1 for 8 weeks - Feb 1990, Europe 1 for 5 weeks - Feb 1990, Germany 1 for 11 weeks - Mar 1990, Spain 1 for 1 week - Apr 1990, MTV Video of the year 1990, KROQ 1 of 1990, Grammy in 1990 (Nominated), US Platinum (certified by RIAA in Apr 1990), UK Platinum (certified by BPI in Mar 1990), US BB 3 of 1990, US Radio 3 of 1990 (peak 1 11 weeks), Australia 3 of 1990, Canada 3 of 1990, US CashBox 4 of 1990, Germany Gold (certified by BMieV in 1990), Brazil 5 of 1990, Switzerland 6 of 1990, Italy 8 of 1990, Europe 8 of the 1990s (1990), nuTsie 11 of 1990s, Germany 19 of the 1990s (peak 1 19 weeks), Holland free40 22 of 1990, Japan (Osaku) 30 of 1990 (peak 5 17 weeks), Vinyl Surrender 48 (1990), Poland 59 of all time, Billboard 50th song 77, 55th Billboard 100 87 (1990), Belgium 90 of all time, Billboard100 92, DMDB 92 (1990), Acclaimed 113 (1990), OzNet 138, Rolling Stone 162, WXPN 661, UKMIX 800, RYM 9 of 1990"
+  },
+  {
+    "rank": 30,
+    "artist": "Madonna",
+    "song": "Like a Prayer",
+    "year": 1989,
+    "misc": "UK 1 - Mar 1989 (13 weeks), US Billboard 1 - Mar 1989 (16 weeks), US CashBox 1 of 1989, Japan (Tokyo) 1 - Mar 1989 (18 weeks), Finland 1 for 3 weeks - Mar 1989, Switzerland 1 - Mar 1989 (17 weeks), Norway 1 - Mar 1989 (16 weeks), Poland 1 - Apr 1989 (26 weeks), Belgium 1 - Mar 1989 (12 weeks), Italy 1 for 9 weeks - Apr 1989, Eire 1 for 2 weeks - Mar 1989, Canada RPM 1 for 4 weeks - Apr 1989, Canada 1 of 1989, New Zealand 1 for 2 weeks - Apr 1989, Australia 1 for 4 weeks - Apr 1989, Europe 1 for 12 weeks - Mar 1989, Holland 2 - Mar 1989 (11 weeks), Austria 2 - Apr 1989 (5 months), Australia 2 of 1989, Germany 2 - Mar 1989 (5 months), ODK Germany 2 - Mar 1989 (25 weeks) (11 weeks in top 10), MTV Video of the year 1989 (Nominated), US Platinum (certified by RIAA in May 1989), France 4 - Mar 1989 (2 weeks), Germany Gold (certified by BMieV in 1989), US Radio 5 of 1989 (peak 1 10 weeks), Italy 5 of 1989, POP 5 of 1989, Switzerland 6 of 1989, ARC 8 of 1989 (peak 1 12 weeks), US BB 25 of 1989, Scrobulate 33 of pop, Sweden 36 - Aug 2009 (1 week), Brazil 38 of 1989, Europe 49 of the 1980s (1989), nuTsie 65 of 1980s, Germany 96 of the 1980s (peak 2 15 weeks), France (InfoDisc) 113 of the 1980s (peak 1, 27 weeks, 478k sales estimated, 1989), OzNet 161, Rolling Stone 300, Acclaimed 629 (1989), RYM 13 of 1989"
+  },
+  {
+    "rank": 31,
+    "artist": "Phil Collins",
+    "song": "A Groovy Kind of Love",
+    "year": 1988,
+    "misc": "UK 1 - Sep 1988 (15 weeks), US Billboard 1 - Sep 1988 (25 weeks), Holland 1 - Sep 1988 (12 weeks), Switzerland 1 - Oct 1988 (23 weeks), Poland 1 - Sep 1988 (17 weeks), Belgium 1 - Oct 1988 (10 weeks), Eire 1 for 2 weeks - Sep 1988, Canada RPM 1 for 3 weeks - Oct 1988, Australia 1 for 1 week - Nov 1988, Europe 1 for 1 week - Oct 1988, Norway 2 - Sep 1988 (16 weeks), Italy 2 of 1988, Germany 3 - Jan 1989 (5 months), ODK Germany 3 - Sep 1988 (23 weeks) (13 weeks in top 10), Springbok 3 - Jan 1989 (4 weeks), Sweden 4 - Sep 1988 (7 weeks), US Gold (certified by RIAA in Jan 1989), Germany Gold (certified by BMieV in 1989), Austria 6 - Nov 1988 (4 months), Japan (Tokyo) 7 - Nov 1988 (12 weeks), Canada 7 of 1988, South Africa 11 of 1989, US Radio 23 of 1988 (peak 1 8 weeks), Australia 23 of 1988, US BB 29 of 1988, US CashBox 29 of 1988, ARC 41 of 1988 (peak 1 12 weeks), POP 65 of 1988, Brazil 75 of 1989, Germany 103 of the 1980s (peak 3 16 weeks), UKMIX 770, UK Silver (certified by BPI in Sep 1988), RYM 193 of 1988"
+  },
+  {
+    "rank": 32,
+    "artist": "Whitney Houston",
+    "song": "I Wanna Dance With Somebody (Who Loves Me)",
+    "year": 1987,
+    "misc": "UK 1 - May 1987 (16 weeks), US Billboard 1 - May 1987 (18 weeks), US Radio 1 of 1987 (peak 1 11 weeks), Holland 1 - May 1987 (13 weeks), Switzerland 1 - May 1987 (17 weeks), Norway 1 - May 1987 (11 weeks), Belgium 1 - May 1987 (13 weeks), Italy 1 for 1 week - Jun 1987, Germany 1 - May 1987 (5 months), ODK Germany 1 - May 1987 (21 weeks) (5 weeks at number 1) (12 weeks in top 10), Canada RPM 1 for 1 week - Jun 1987, New Zealand 1 for 4 weeks - Jun 1987, Australia 1 for 5 weeks - Jun 1987, Springbok 1 - Jun 1987 (24 weeks), Europe 1 for 8 weeks - Jun 1987, Germany 1 for 5 weeks - Jun 1987, US CashBox 2 of 1987, Sweden 2 - May 1987 (5 weeks), Canada 2 of 1987, US Platinum (certified by RIAA in Feb 1989), Austria 3 - Jun 1987 (5 months), Switzerland 3 of 1987, US BB 4 of 1987, Poland 4 - Jun 1987 (19 weeks), South Africa 4 of 1987, UK Gold (certified by BPI in Aug 1987), ARC 10 of 1987 (peak 1 14 weeks), France 10 - Jun 1987 (1 week), Italy 10 of 1987, Australia 11 of 1987, POP 22 of 1987, Brazil 38 of 1987, Germany 67 of the 1980s (peak 1 15 weeks), nuTsie 83 of 1980s, UKMIX 627"
+  },
+  {
+    "rank": 33,
+    "artist": "Berlin",
+    "song": "Take My Breath Away",
+    "year": 1986,
+    "misc": "UK 1 - Oct 1986 (15 weeks), US Billboard 1 - Jun 1986 (21 weeks), Holland 1 - Sep 1986 (12 weeks), Sweden 1 - Sep 1986 (7 weeks), Belgium 1 - Oct 1986 (12 weeks), Eire 1 for 4 weeks - Oct 1986, Europe 1 for 4 weeks - Nov 1986, Oscar in 1986 (film 'Top Gun'), Golden Globe in 1986 (film 'Top Gun'), ASCAP song of 1986, Brazil 2 of 1986, Switzerland 2 - Oct 1986 (15 weeks), Springbok 2 - Oct 1986 (18 weeks), Germany 3 - Sep 1986 (3 months), ODK Germany 3 - Sep 1986 (18 weeks) (8 weeks in top 10), Austria 4 - Nov 1986 (4 months), Norway 4 - Oct 1986 (6 weeks), Poland 4 - Nov 1986 (9 weeks), US Gold (certified by RIAA in May 1992), UK Gold (certified by BPI in Nov 1986), Australia 6 of 1986, POP 7 of 1986, US CashBox 21 of 1986, Canada 23 of 1986, US BB 27 of 1986, ARC 28 of 1986 (peak 1 13 weeks), US Radio 29 of 1986 (peak 1 9 weeks), Italy 37 of 1986, TOTP 37, nuTsie 58 of 1980s, UKMIX 69, Scrobulate 80 of 80s, Holland free40 93 of 1986, OzNet 251, Germany 310 of the 1980s (peak 3 9 weeks), RYM 16 of 1986"
+  },
+  {
+    "rank": 34,
+    "artist": "USA For Africa",
+    "song": "We Are the World",
+    "year": 1985,
+    "misc": "UK 1 - Apr 1985 (10 weeks), US Billboard 1 - Mar 1985 (18 weeks), US CashBox 1 of 1985, Canada 1 - Apr 1985 (8 weeks), Holland 1 - Mar 1985 (16 weeks), Sweden 1 - Mar 1985 (7 weeks), Sweden (alt) 1 - Apr 1985 (22 weeks), Brazil 1 of 1985, Switzerland 1 - Apr 1985 (26 weeks), Norway 1 - Mar 1985 (17 weeks), Poland 1 - Mar 1983 (17 weeks), Belgium 1 - Mar 1985 (18 weeks), Australia 1 of 1985, Italy 1 of 1985, Italy 1 for 11 weeks - Apr 1985, Eire 1 for 4 weeks - Apr 1985, Canada RPM 1 for 3 weeks - May 1985, New Zealand 1 for 7 weeks - Apr 1985, Australia 1 for 9 weeks - Apr 1985, Springbok 1 - May 1985 (23 weeks), Europe 1 for 9 weeks - Apr 1985, Grammy in 1985, US 4 X Platinum (certified by RIAA in Apr 1985), Austria 2 - Apr 1985 (5 months), Germany 2 - Apr 1985 (3 months), ODK Germany 2 - Apr 1985 (21 weeks) (7 weeks in top 10), MTV Video of the year 1985 (Nominated), Switzerland 4 of 1985, US Radio 6 of 1985 (peak 1 9 weeks), South Africa 8 of 1985, ARC 13 of 1985 (peak 1 12 weeks), US BB 20 of 1985, Canada 23 of 1985, nuTsie 37 of 1980s, POP 71 of 1985, DMDB 86 (1985), RIAA 121, France (InfoDisc) 131 of the 1980s (peak 1, 25 weeks, 965k sales estimated, 1985), Germany 263 of the 1980s (peak 2 10 weeks), OzNet 418, Acclaimed 1371 (1985), UK Silver (certified by BPI in Apr 1985), Global 4 (20 M sold) - 1985"
+  },
+  {
+    "rank": 35,
+    "artist": "Stevie Wonder",
+    "song": "I Just Called to Say I Love You",
+    "year": 1984,
+    "misc": "UK 1 - Aug 1984 (39 weeks), US Billboard 1 - Aug 1984 (25 weeks), Canada 1 - Sep 1984 (16 weeks), Holland 1 - Aug 1984 (17 weeks), Sweden 1 - Sep 1984 (8 weeks), Sweden (alt) 1 - Aug 1984 (23 weeks), Austria 1 - Oct 1984 (5 months), Switzerland 1 - Sep 1984 (21 weeks), Norway 1 - Sep 1984 (17 weeks), Poland 1 - Jan 1984 (26 weeks), Belgium 1 - Sep 1984 (20 weeks), Italy 1 of 1984, Italy 1 for 8 weeks - Nov 1984, Germany 1 - Sep 1984 (4 months), ODK Germany 1 - Sep 1984 (24 weeks) (6 weeks at number 1) (13 weeks in top 10), Eire 1 for 5 weeks - Sep 1984, Canada RPM 1 for 3 weeks - Oct 1984, Canada 1 of 1984, New Zealand 1 for 8 weeks - Oct 1984, Australia 1 for 8 weeks - Oct 1984, Springbok 1 - Oct 1984 (25 weeks), Europe 1 for 14 weeks - Sep 1984, Germany 1 for 6 weeks - Sep 1984, Spain 1 for 2 weeks - Nov 1984, Oscar in 1984 (film 'The Woman In Red'), Golden Globe in 1984 (film 'The Woman in Red'), France (SNEP) 2 - Oct 1984 (3 months), UK Platinum (certified by BPI in Sep 1984), Brazil 3 of 1984, UK sales 3 of the 1980s (1,780 k in 1984), US Gold (certified by RIAA in Nov 1984), Germany Gold (certified by BMieV in 1984), Australia 6 of 1984, US Radio 8 of 1984 (peak 1 12 weeks), US CashBox 9 of 1984, Switzerland 11 of 1984, ARC 12 of 1984 (peak 1 15 weeks), US BB 25 of 1984, POP 26 of 1984, France (InfoDisc) 30 of the 1980s (peak 1, 31 weeks, 926k sales estimated, 1984), Germany 52 of the 1980s (peak 1 15 weeks), UKMIX 63, Scrobulate 100 of r & b, NY Daily Love list 4"
+  },
+  {
+    "rank": 36,
+    "artist": "Irene Cara",
+    "song": "Flashdance... What a Feeling",
+    "year": 1983,
+    "misc": "US Billboard 1 - Apr 1983 (25 weeks), US CashBox 1 of 1983, US Radio 1 of 1983 (peak 1 16 weeks), Canada 1 - May 1983 (13 weeks), Sweden (alt) 1 - May 1983 (28 weeks), France (SNEP) 1 - Sep 1983 (4 months), France 1 - Jul 1983 (5 weeks), Switzerland 1 - Jun 1983 (26 weeks), Switzerland 1 of 1983, Norway 1 - Jun 1983 (20 weeks), Italy 1 of 1983, Italy 1 for 9 weeks - Nov 1983, Canada RPM 1 for 3 weeks - May 1983, New Zealand 1 for 6 weeks - Jul 1983, Japan 1 for 2 weeks - Aug 1983, Australia 1 for 7 weeks - Jul 1983, Springbok 1 - Jul 1983 (18 weeks), France 1 for 7 weeks - Oct 1983, Oscar in 1983 (film 'Flashdance'), Golden Globe in 1983 (film 'Flashdance'), UK 2 - Jun 1983 (14 weeks), ARC 2 of 1983 (peak 1 21 weeks), Australia 2 of 1983, Grammy in 1983 (Nominated), US BB 3 of 1983, ODK Germany 3 - Jul 1983 (31 weeks) (14 weeks in top 10), POP 3 of 1983, Austria 4 - Aug 1983 (7 months), Germany 4 - Jun 1983 (6 months), Canada 4 of 1983, US Gold (certified by RIAA in Jun 1983), Japan 7 of all time (international songs) (sales 0.75), France (InfoDisc) 9 of the 1980s (peak 1, 28 weeks, 1,365k sales estimated, 1983), South Africa 9 of 1983, Holland 13 - Apr 1983 (6 weeks), Belgium 20 - May 1983 (4 weeks), Poland 21 - Jul 1983 (6 weeks), Brazil 23 of 1983, nuTsie 26 of 1980s, Billboard 50th song 26, 55th Billboard 100 30 (1983), Billboard100 31, Scrobulate 31 of gay, AFI 55, Germany 57 of the 1980s (peak 3 22 weeks), OzNet 243, RIAA 256, UK Silver (certified by BPI in Jul 1983), RYM 121 of 1983"
+  },
+  {
+    "rank": 37,
+    "artist": "Survivor",
+    "song": "Eye of the Tiger",
+    "year": 1982,
+    "misc": "UK 1 - Jul 1982 (27 weeks), US Billboard 1 - Jun 1982 (25 weeks), US CashBox 1 of 1982, US Radio 1 of 1982 (peak 1 18 weeks), Canada 1 - Jun 1982 (16 weeks), Norway 1 - Aug 1982 (22 weeks), Australia 1 of 1982, Eire 1 for 3 weeks - Sep 1982, Canada RPM 1 for 6 weeks - Jul 1982, Australia 1 for 6 weeks - Sep 1982, Springbok 1 - Jul 1982 (21 weeks), Spain 1 for 1 week - Sep 1982, US 2 X Platinum (certified by RIAA in Oct 1994), US BB 2 of 1982, ARC 2 of 1982 (peak 1 18 weeks), Holland 2 - Sep 1982 (11 weeks), Austria 2 - Sep 1982 (4 months), Belgium 2 - Oct 1982 (9 weeks), Canada 2 of 1982, South Africa 2 of 1982, Oscar in 1982 (film 'Rocky III') (Nominated), Golden Globe in 1982 (film 'Rocky III') (Nominated), France (SNEP) 3 - Nov 1982 (4 months), UK Gold (certified by BPI in Sep 1982), Sweden (alt) 5 - Aug 1982 (21 weeks), Switzerland 6 - Aug 1982 (31 weeks), France 7 - Jan 1983 (1 week), POP 7 of 1982, WABC NY 12 of 1982, ODK Germany 13 - Sep 1982 (30 weeks), Germany 18 - Jan 1983 (5 months), Scrobulate 20 of 80s, Billboard 50th song 21, Brazil 23 of 1982, Italy 23 of 1982, 55th Billboard 100 23 (1982), Poland 24 - Jul 1982 (4 weeks), Billboard100 24, France (InfoDisc) 32 of the 1980s (peak 3, 38 weeks, 873k sales estimated, 1982), Europe 46 of the 1980s (1982), OzNet 82, Holland free40 90 of 1982, UKMIX 436, Global 33 (5 M sold) - 1982"
+  },
+  {
+    "rank": 38,
+    "artist": "Kim Carnes",
+    "song": "Bette Davis Eyes",
+    "year": 1981,
+    "misc": "US Billboard 1 - Mar 1981 (26 weeks), US BB 1 of 1981, Record World 1 - 1981, US Radio 1 of 1981 (peak 1 16 weeks), Canada 1 - Apr 1981 (14 weeks), France (SNEP) 1 - Jun 1981 (5 months), France 1 - Jun 1981 (5 weeks), Brazil 1 of 1981, Switzerland 1 - Jun 1981 (12 weeks), Norway 1 - Jun 1981 (15 weeks), Italy 1 for 3 weeks - Nov 1981, Germany 1 - Jun 1981 (5 months), ODK Germany 1 - Jun 1981 (27 weeks) (7 weeks at number 1) (15 weeks in top 10), Australia 1 for 5 weeks - Jun 1981, Springbok 1 - Jun 1981 (16 weeks), France 1 for 15 weeks - Jul 1981, Germany 1 for 7 weeks - Jul 1981, Spain 1 for 1 week - Sep 1981, Grammy in 1981, Top Song of 1981 of the Billboard 50th list, US CashBox 2 of 1981, WABC NY 2 of 1981, ARC 2 of 1981 (peak 1 21 weeks), France (InfoDisc) 2 of the 1980s (peak 1, 43 weeks, 1,190k sales estimated, 1981), Austria 2 - Jul 1981 (4 months), Switzerland 2 of 1981, Canada 2 of 1981, South Africa 2 of 1981, Sweden (alt) 4 - May 1981 (22 weeks), US Gold (certified by RIAA in Jun 1981), Italy 5 of 1981, Belgium 6 - May 1981 (10 weeks), Australia 6 of 1981, UK 10 - May 1981 (9 weeks), Billboard 50th song 12, 55th Billboard 100 14 (1981), Billboard100 15, Holland 16 - May 1981 (8 weeks), nuTsie 16 of 1980s, Germany 18 of the 1980s (peak 1 20 weeks), OzNet 45, Holland free40 56 of 1981, Scrobulate 66 of 80s, RIAA 268, Acclaimed 738 (1981), RYM 16 of 1981"
+  },
+  {
+    "rank": 39,
+    "artist": "Pink Floyd",
+    "song": "Another Brick in the Wall (part 2)",
+    "year": 1980,
+    "misc": "UK 1 - Dec 1979 (12 weeks), US Billboard 1 - Jan 1980 (25 weeks), Record World 1 - 1980, Canada 1 - Jan 1980 (18 weeks), Holland free40 1 of 1979, Sweden (alt) 1 - Feb 1980 (22 weeks), France (SNEP) 1 - Jan 1980 (4 months), France 1 - Feb 1980 (6 weeks), Austria 1 - Feb 1980 (6 months), Switzerland 1 - Jan 1980 (17 weeks), Switzerland 1 of 1980, Norway 1 - Jan 1980 (22 weeks), Germany 1 - Jan 1980 (6 months), ODK Germany 1 - Jan 1980 (34 weeks) (4 weeks at number 1) (18 weeks in top 10), Eire 1 for 4 weeks - Dec 1979, Canada RPM 1 for 6 weeks - Mar 1980, Canada 1 of 1980, New Zealand 1 for 5 weeks - Feb 1980, Springbok 1 - Feb 1980 (11 weeks), Europe 1 for 11 weeks - Feb 1980, France 1 for 4 weeks - Feb 1980, Germany 1 for 4 weeks - Feb 1980, Poland 1 of all time, US BB 2 of 1980, Brazil 2 of 1980, US Platinum (certified by RIAA in Sep 2001), UK Platinum (certified by BPI in Jan 1980), US CashBox 3 of 1980, Holland 3 - Dec 1979 (11 weeks), Belgium 3 - Dec 1979 (11 weeks), WABC NY 4 of 1980, Australia 4 of 1980, Germany Gold (certified by BMieV in 1993), D.Marsh 4 of 1980, KROQ 6 of 1980, POP 7 of 1980, ARC 8 of 1980 (peak 1 16 weeks), US Radio 8 of 1980 (peak 1 15 weeks), France (InfoDisc) 8 of the 1970s (peak 1, 35 weeks, 841k sales estimated, 1979), South Africa 8 of 1980, Germany 9 of the 1980s (peak 1 22 weeks), Europe 11 of the 1970s (1979), Italy 12 of 1980, Japan (Tokyo) 19 - Nov 1988 (6 weeks), TheQ 28, nuTsie 28 of 1970s, Virgin 39, Belgium 50 of all time, Scrobulate 51 of live, DMDB 79 (1979), RIAA 296, Rolling Stone 375, Acclaimed 392 (1979), OzNet 594, UKMIX 686, RYM 18 of 1979, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 40,
+    "artist": "Blondie",
+    "song": "Heart of Glass",
+    "year": 1979,
+    "misc": "UK 1 - Jan 1979 (12 weeks), US Billboard 1 - Feb 1979 (21 weeks), Record World 1 - 1979, Canada 1 - Mar 1979 (15 weeks), Austria 1 - Mar 1979 (5 months), Switzerland 1 - Feb 1979 (14 weeks), Germany 1 - Feb 1979 (5 months), ODK Germany 1 - Feb 1979 (28 weeks) (6 weeks at number 1) (16 weeks in top 10), Canada RPM 1 for 1 week - May 1979, New Zealand 1 for 4 weeks - Apr 1979, RIANZ 1 - Mar 1979 (24 weeks), Australia 1 for 5 weeks - Apr 1979, Germany 1 for 6 weeks - Mar 1979, Grammy Hall of Fame in 2016 (1979), Canada 2 of 1979, Springbok 2 - Mar 1979 (18 weeks), UK Platinum (certified by BPI in Feb 1979), Sweden (alt) 3 - Mar 1979 (24 weeks), France (SNEP) 3 - Dec 1978 (4 months), France 3 - Feb 1979 (5 weeks), Australia 3 of 1979, US Gold (certified by RIAA in Apr 1979), Germany Gold (certified by BMieV in 1979), Holland 5 - Feb 1979 (8 weeks), Norway 5 - Mar 1979 (8 weeks), Belgium 5 - Mar 1979 (8 weeks), UK sales 8 of the 1970s (1,180 k in 1979), D.Marsh 9 of 1979, US CashBox 11 of 1979, Switzerland 11 of 1979, POP 13 of 1979, South Africa 15 of 1979, WABC NY 16 of 1979, US BB 18 of 1979, US Radio 28 of 1979 (peak 1 10 weeks), Italy 29 of 1979, Virgin 29, OzNet 30, Scrobulate 46 of 80s, nuTsie 48 of 1970s, Brazil 50 of 1979, Germany 54 of the 1970s (peak 1 18 weeks), Vinyl Surrender 67 (1978), Holland free40 71 of 1979, France (InfoDisc) 132 of the 1970s (peak 4, 34 weeks, 618k sales estimated, 1978), RIAA 217, Acclaimed 241 (1978), Rolling Stone 255, UKMIX 956, RYM 8 of 1979, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 41,
+    "artist": "Bee Gees",
+    "song": "Stayin' Alive",
+    "year": 1978,
+    "misc": "US Billboard 1 - Dec 1977 (26 weeks), Record World 1 - 1978, Canada 1 - Jan 1978 (19 weeks), Holland 1 - Feb 1978 (16 weeks), France 1 - Feb 1978 (1 week), Italy 1 of 1978, Italy 1 for 7 weeks - May 1978, Canada RPM 1 for 4 weeks - Feb 1978, New Zealand 1 for 2 weeks - Mar 1978, RIANZ 1 - Feb 1978 (28 weeks), Australia 1 for 7 weeks - Apr 1978, Springbok 1 - Apr 1978 (16 weeks), Europe 1 for 3 weeks - Apr 1978, France 1 for 2 weeks - Sep 1978, Mexico 1 for 6 weeks - May 1978, D.Marsh 1 of 1978, US CashBox 2 of 1978, WABC NY 2 of 1978, US Radio 2 of 1978 (peak 1 16 weeks), France (SNEP) 2 - May 1978 (4 months), Austria 2 - Apr 1978 (6 months), Switzerland 2 - Mar 1978 (20 weeks), Belgium 2 - Feb 1978 (14 weeks), Germany 2 - Mar 1978 (6 months), ODK Germany 2 - Feb 1978 (30 weeks) (13 weeks in top 10), Scrobulate 2 of disco, Grammy in 1978 (Nominated), US Platinum (certified by RIAA in Mar 1978), Sweden (alt) 3 - Mar 1978 (26 weeks), UK 4 - Feb 1978 (18 weeks), US BB 4 of 1978, Norway 4 - Mar 1978 (22 weeks), Australia 4 of 1978, South Africa 4 of 1978, Switzerland 5 of 1978, POP 8 of 1978, Canada 9 of 1978, AFI 9, OzNet 9, Brazil 14 of 1978, nuTsie 15 of 1970s, France (InfoDisc) 23 of the 1970s (peak 2, 25 weeks, 831k sales estimated, 1978), Europe 36 of the 1970s (1978), Billboard 50th song 46, DMDB 47 (1977), 55th Billboard 100 54 (1978), Billboard100 56, 80 in 2FM list, RIAA 94, Acclaimed 98 (1977), Holland free40 100 of 1978, Germany 100 of the 1970s (peak 2 22 weeks), Rolling Stone 189, UK Silver (certified by BPI in Mar 1978), RYM 34 of 1977, Party 13 of 2007, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 42,
+    "artist": "Eagles",
+    "song": "Hotel California",
+    "year": 1977,
+    "misc": "US Billboard 1 - Feb 1977 (19 weeks), Record World 1 - 1977, Canada 1 - Mar 1977 (17 weeks), France 1 - Jun 1977 (4 weeks), Canada RPM 1 for 2 weeks - Apr 1977, Grammy in 1977, Grammy Hall of Fame in 2003 (1977), ASCAP song of 1977, Switzerland 2 - Jul 1977 (13 weeks), US (Sup) Platinum (certified by RIAA in Feb 2009), nuTsie 3 of 1970s, OzNet 3, US Gold (certified by RIAA in May 1977), Norway 5 - May 1977 (15 weeks), RIANZ 5 - Apr 1977 (19 weeks), Europe 5 of the 1970s (1977), Germany 6 - Jun 1977 (4 months), ODK Germany 6 - May 1977 (24 weeks) (8 weeks in top 10), TheQ 6, POP 6 of 1977, UK 8 - Apr 1977 (13 weeks), Holland 8 - May 1977 (14 weeks), Canada 8 of 1977, US Radio 10 of 1977 (peak 1 13 weeks), France (SNEP) 13 - Aug 1977 (1 month), Austria 13 - Sep 1977 (3 months), Brazil 14 of 1977, DMDB 17 (1977), Belgium 18 of all time, US BB 19 of 1977, Belgium 21 - May 1977 (4 weeks), D.Marsh 21 of 1977, WABC NY 22 of 1977, Holland free40 25 of 1977, Scrobulate 28 of rock, US CashBox 35 of 1977, Poland 38 of all time, Acclaimed 43 (1976), Virgin 44, RIAA 46, Rolling Stone 49, 68 in 2FM list, WXPN 73, Vinyl Surrender 73 (1976), Japan (Tokyo) 75 - Jun 1996 (4 weeks), Italy 88 of 1977, Germany 317 of the 1970s (peak 6 16 weeks), RYM 18 of 1977, Party 87 of 2007, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 43,
+    "artist": "Abba",
+    "song": "Dancing Queen",
+    "year": 1976,
+    "misc": "UK 1 - Aug 1976 (25 weeks), US Billboard 1 - Dec 1976 (21 weeks), Record World 1 - 1977, Holland 1 - Aug 1976 (20 weeks), Sweden (alt) 1 - Aug 1976 (32 weeks), France 1 - Aug 1976 (5 weeks), Norway 1 - Aug 1976 (31 weeks), Belgium 1 - Aug 1976 (19 weeks), Eire 1 for 6 weeks - Sep 1976, Canada RPM 1 for 2 weeks - Mar 1977, New Zealand 1 for 4 weeks - Sep 1976, RIANZ 1 - Sep 1976 (23 weeks), Australia 1 for 8 weeks - Sep 1976, Springbok 1 - Oct 1976 (17 weeks), Europe 1 for 10 weeks - Sep 1976, Germany 1 for 1 week - Sep 1976, Grammy Hall of Fame in 2015 (1976), POP 1 of 1977, Germany 2 - Aug 1976 (5 months), US CashBox 3 of 1977, Switzerland 3 - Aug 1976 (35 weeks), Australia 3 of 1976, Austria 4 - Sep 1976 (6 months), US Gold (certified by RIAA in Mar 1977), UK Gold (certified by BPI in Sep 1976), Canada 5 of 1977, Canada 6 - Jan 1977 (14 weeks), France (SNEP) 8 - Oct 1976 (2 months), South Africa 10 of 1976, Switzerland 11 of 1976, US BB 12 of 1977, Europe 14 of the 1970s (1976), D.Marsh 16 of 1977, WABC NY 17 of 1977, US Radio 18 of 1977 (peak 1 12 weeks), ODK Germany 26 - Jan 1977 (23 weeks), OzNet 31, nuTsie 33 of 1970s, Brazil 37 of 1977, Italy 65 of 1976, Scrobulate 82 of pop, Germany 99 of the 1970s (peak 1 18 weeks), UKMIX 112, Acclaimed 122 (1976), RIAA 148, Vinyl Surrender 157 (1976), Rolling Stone 171, Belgium 224 of all time, WXPN 847, RYM 4 of 1976, Party 2 of 2007, Global 33 (5 M sold) - 1976"
+  },
+  {
+    "rank": 44,
+    "artist": "Billy Swan",
+    "song": "I Can Help",
+    "year": 1975,
+    "misc": "US Billboard 1 - Sep 1974 (18 weeks), Record World 1 - 1974, Holland 1 - Dec 1974 (13 weeks), Austria 1 - Jan 1975 (6 months), Switzerland 1 - Jan 1975 (18 weeks), Norway 1 - Feb 1975 (37 weeks), Belgium 1 - Dec 1974 (15 weeks), New Zealand 1 for 4 weeks - Feb 1975, Australia 1 for 1 week - Jan 1975, France 1 for 4 weeks - Feb 1975, Germany 1 for 1 week - Feb 1975, France (SNEP) 2 - Feb 1975 (3 months), Germany 2 - Jan 1975 (5 months), Canada 3 - Nov 1974 (12 weeks), Springbok 3 - Feb 1975 (14 weeks), US Gold (certified by RIAA in Dec 1974), Switzerland 5 of 1975, UK 6 - Dec 1974 (9 weeks), D.Marsh 9 of 1974, France 10 - Dec 1974 (1 week), RIANZ 14 - May 1975 (4 weeks), Canada 16 of 1974, Sweden (alt) 18 - Feb 1976 (2 weeks), Australia 20 of 1975, US Radio 33 of 1974 (peak 1 7 weeks), US BB 43 of 1975, DDD 46 of 1974, US CashBox 64 of 1975, WABC NY 74 of 1974, Germany 95 of the 1970s (peak 1 20 weeks), France (InfoDisc) 115 of the 1970s (peak 1, 19 weeks, 656k sales estimated, 1975), Acclaimed 2397 (1974), UK Silver (certified by BPI in Jan 1975), RYM 115 of 1974"
+  },
+  {
+    "rank": 45,
+    "artist": "Carl Douglas",
+    "song": "Kung Fu Fighting",
+    "year": 1974,
+    "misc": "UK 1 - Aug 1974 (13 weeks), US Billboard 1 - Oct 1974 (18 weeks), Record World 1 - 1974, Canada 1 - Nov 1974 (13 weeks), Holland 1 - Oct 1974 (15 weeks), France 1 - Sep 1974 (4 weeks), Austria 1 - Dec 1974 (8 months), Belgium 1 - Oct 1974 (12 weeks), Germany 1 - Jan 1975 (6 months), Eire 1 for 2 weeks - Oct 1974, Canada RPM 1 for 3 weeks - Dec 1974, New Zealand 1 for 4 weeks - Nov 1974, Australia 1 for 3 weeks - Dec 1974, Springbok 1 - Oct 1974 (19 weeks), France 1 for 1 week - Nov 1974, Germany 1 for 7 weeks - Nov 1974, France (SNEP) 2 - Sep 1974 (4 months), Switzerland 2 - Nov 1974 (15 weeks), South Africa 2 of 1974, Norway 3 - Oct 1974 (26 weeks), US Gold (certified by RIAA in Nov 1974), UK Gold (certified by BPI in Oct 1974), Sweden 8 - Aug 1998 (2 weeks), POP 9 of 1974, Italy 10 of 1975, US CashBox 11 of 1975, Denmark 12 of 1974, Scrobulate 12 of disco, Brazil 13 of 1975, US BB 14 of 1975, Canada 18 of 1974, Australia 22 of 1974, US Radio 24 of 1974 (peak 1 8 weeks), Germany 27 of the 1970s (peak 1 21 weeks), WABC NY 52 of 1975, DDD 69 of 1974, France (InfoDisc) 78 of the 1970s (peak 1, 25 weeks, 748k sales estimated, 1974), OzNet 842, UKMIX 862, RYM 84 of 1974, Global 7 (10 M sold) - 1974"
+  },
+  {
+    "rank": 46,
+    "artist": "The Rolling Stones",
+    "song": "Angie",
+    "year": 1973,
+    "misc": "US Billboard 1 - Sep 1973 (16 weeks), Record World 1 - 1973, Canada 1 - Sep 1973 (14 weeks), Holland 1 - Sep 1973 (23 weeks), France (SNEP) 1 - Sep 1973 (3 months), France 1 - Sep 1973 (7 weeks), Switzerland 1 - Sep 1973 (21 weeks), Norway 1 - Oct 1973 (23 weeks), Belgium 1 - Sep 1973 (16 weeks), Canada RPM 1 for 5 weeks - Sep 1973, Australia 1 for 5 weeks - Nov 1973, Australia Goset 1 - Oct 1973 (19 weeks), France 1 for 1 week - Nov 1973, Switzerland 2 of 1973, Springbok 2 - Nov 1973 (16 weeks), Europe 3 of the 1970s (1973), Germany 4 - Jan 1974 (5 months), Belgium 4 of all time, US Gold (certified by RIAA in Nov 1973), UK 5 - Sep 1973 (10 weeks), Italy 6 of 1974, Canada 6 of 1973, Austria 8 - Oct 1973 (6 months), WABC NY 10 of 1973, DDD 11 of 1973, US Radio 16 of 1973 (peak 1 10 weeks), Australia 19 of 1973, Vinyl Surrender 25 (1973), France (InfoDisc) 31 of the 1970s (peak 1, 34 weeks, 665k sales estimated, 1973), Poland 43 of all time, Scrobulate 51 of ballad, Brazil 52 of 1973, US CashBox 69 of 1973, OzNet 71, Japan (Tokyo) 73 - Feb 1990 (2 weeks), US BB 85 of 1973, Germany 190 of the 1970s (peak 2 16 weeks), WXPN 571, Acclaimed 1093 (1973), UK Silver (certified by BPI in Oct 1973), RYM 27 of 1973"
+  },
+  {
+    "rank": 47,
+    "artist": "Don McLean",
+    "song": "American Pie",
+    "year": 1972,
+    "misc": "US Billboard 1 - Nov 1971 (19 weeks), US CashBox 1 of 1972, Record World 1 - 1972, Keener 1 - Dec 1971 (14 weeks), Canada 1 - Nov 1971 (14 weeks), Canada RPM 1 for 5 weeks - Jan 1972, New Zealand 1 for 3 weeks - Apr 1972, Australia 1 for 5 weeks - Mar 1972, Australia Goset 1 - Feb 1972 (21 weeks), Grammy Hall of Fame in 2002 (1971), Library of Congress artifact added 2016 (1971), UK 2 - Jan 1972 (16 weeks), WABC NY 2 of 1972, France 2 - Mar 1972 (6 weeks), POP 2 of 1972, Grammy in 1972 (Nominated), US BB 3 of 1972, US Radio 3 of 1972 (peak 1 13 weeks), Poland 4 - Feb 2000 (18 weeks), Australia 4 of 1972, US Gold (certified by RIAA in Jan 1972), OzNet 4, RIAA 5, DDD 6 of 1971, Norway 9 - Mar 1972 (5 weeks), Holland 11 - Feb 1972 (8 weeks), nuTsie 13 of 1970s, Germany 17 - Mar 1972 (4 months), Scrobulate 17 of folk, Belgium 20 - Mar 1972 (2 weeks), 23 in 2FM list, TheQ 25, DMDB 38 (1971), D.Marsh 40 of 1971, WXPN 61, Brazil 96 of 1972, UKMIX 206, Acclaimed 266 (1971), RYM 22 of 1971, WFUV 24, Party 64 of 1999, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 48,
+    "artist": "George Harrison",
+    "song": "My Sweet Lord",
+    "year": 1971,
+    "misc": "UK 1 - Jan 1971 (17 weeks), US Billboard 1 - Nov 1970 (14 weeks), Record World 1 - 1970, Keener 1 - Nov 1970 (7 weeks), Canada 1 - Nov 1970 (12 weeks), Holland 1 - Dec 1970 (11 weeks), France (SNEP) 1 - Dec 1970 (4 months), France 1 - Mar 1971 (5 weeks), Switzerland 1 - Jan 1971 (16 weeks), Norway 1 - Feb 1971 (21 weeks), Belgium 1 - Dec 1970 (12 weeks), Germany 1 - Jan 1971 (5 months), Eire 1 for 7 weeks - Jan 1971, Canada Billboard 1 for 4 weeks - Feb 2002, New Zealand 1 for 4 weeks - Jan 1971, Australia 1 for 8 weeks - Jan 1971, Australia Goset 1 - Jan 1971 (22 weeks), France 1 for 9 weeks - Jan 1971, Germany 1 for 10 weeks - Jan 1971, Mexico 1 for 7 weeks - Feb 1971, Switzerland 2 of 1971, Australia 2 of 1971, Grammy in 1971 (Nominated), Springbok 3 - Mar 1971 (11 weeks), Italy 4 of 1971, US Gold (certified by RIAA in Dec 1970), Virgin 5, Poland 7 - Feb 2002 (16 weeks), Canada 7 of 1971, US Radio 8 of 1970 (peak 1 11 weeks), DDD 11 of 1970, Denmark 16 of 1971, Brazil 18 of 1971, WABC NY 29 of 1971, US BB 31 of 1971, KQV 36 of 1970, Germany 40 of the 1970s (peak 1 19 weeks), Japan (Tokyo) 52 - Dec 1991 (4 weeks), nuTsie 61 of 1970s, US CashBox 70 of 1971, ODK Germany 74 - Jan 2002 (4 weeks), Europe 93 of the 1970s (1970), France (InfoDisc) 94 of the 1970s (peak 1, 25 weeks, 675k sales estimated, 1970), OzNet 170, WXPN 339, UKMIX 411, Rolling Stone 454, TheQ 484, Acclaimed 604 (1970), RYM 3 of 1970, Guardian Rock 43, Global 33 (5 M sold) - 1970"
+  },
+  {
+    "rank": 49,
+    "artist": "The Beatles",
+    "song": "Let it Be",
+    "year": 1970,
+    "misc": "US Billboard 1 - Mar 1970 (14 weeks), Record World 1 - 1970, Keener 1 - Mar 1970 (10 weeks), Canada 1 - Mar 1970 (8 weeks), Holland 1 - Mar 1970 (9 weeks), Switzerland 1 - Mar 1970 (17 weeks), Norway 1 - Mar 1970 (15 weeks), Australia 1 of 1970, Italy 1 for 1 week - May 1970, Canada RPM 1 for 3 weeks - Apr 1970, New Zealand 1 for 3 weeks - Apr 1970, NZ Listner 1 - Apr 1970 (3 weeks), Australia 1 for 6 weeks - Apr 1970, Australia Goset 1 - Apr 1970 (32 weeks), Germany 1 for 1 week - May 1970, Grammy Hall of Fame in 2004 (1970), US 2 X Platinum (certified by RIAA in Feb 1999), UK 2 - Mar 1970 (18 weeks), WABC NY 2 of 1970, Germany 2 - Apr 1970 (4 months), Grammy in 1970 (Nominated), Flanders 3 - Mar 1970 (3 months), Canada 3 of 1970, DDD 3 of 1970, France (SNEP) 4 - Mar 1970 (4 months), Switzerland 4 of 1970, US Radio 6 of 1970 (peak 1 11 weeks), KQV 8 of 1970, Belgium 8 - May 1970 (3 weeks), Italy 8 of 1970, US BB 9 of 1970, US CashBox 9 of 1970, Brazil 9 of 1970, France 10 - Mar 1970 (1 week), Virgin 11, nuTsie 11 of 1970s, WXPN 12, Denmark 13 of 1970, Japan 14 of all time (international songs) (sales 0.558), Europe 15 of the 1970s (1970), Rolling Stone 20, POP 20 of 1970, OzNet 25, Poland 28 - Dec 2003 (27 weeks), Scrobulate 34 of classic rock, Japan (Tokyo) 47 - Nov 2003 (2 weeks), Japan (Osaku) 60 of 2001 (peak 14 20 weeks), DMDB 72 (1970), Belgium 77 of all time, Vinyl Surrender 93 (1970), Germany 149 of the 1970s (peak 2 17 weeks), France (InfoDisc) 178 of the 1970s (peak 1, 23 weeks, 417k sales estimated, 1970), TheQ 318, Acclaimed 342 (1970), RYM 9 of 1970, Guardian Rock 41, Global 33 (5 M sold) - 1970"
+  },
+  {
+    "rank": 50,
+    "artist": "Archies",
+    "song": "Sugar Sugar",
+    "year": 1969,
+    "misc": "UK 1 - Oct 1969 (26 weeks), US Billboard 1 - Jul 1969 (22 weeks), US BB 1 of 1969, US CashBox 1 of 1969, Record World 1 - 1969, KQV 1 of 1969, Keener 1 - Jul 1969 (11 weeks), Canada 1 - Jul 1969 (11 weeks), Norway 1 - Nov 1969 (17 weeks), Flanders 1 - Sep 1969 (5 months), Germany 1 - Jan 1970 (6 months), Eire 1 for 6 weeks - Nov 1969, Canada RPM 1 for 3 weeks - Sep 1969, Springbok 1 - Jul 1969 (18 weeks), Germany 1 for 7 weeks - Nov 1969, Mexico 1 for 11 weeks - Nov 1969, Top Song of 1969 of the Billboard 50th list, WABC NY 2 of 1969, US Radio 2 of 1969 (peak 1 15 weeks), Switzerland 2 - Oct 1969 (16 weeks), Denmark 2 of 1969, Canada 2 of 1969, Holland 4 - Sep 1969 (16 weeks), US Gold (certified by RIAA in Aug 1969), Australia Goset 5 - Aug 1969 (18 weeks), France 8 - Feb 1970 (1 week), Brazil 8 of 1969, South Africa 8 of 1969, US invalid BB 10 of 1969, POP 10 of 1969, France (SNEP) 14 - Jan 1970 (1 month), TOTP 26, UKMIX 38, D.Marsh 40 of 1969, Billboard 50th song 63, Italy 70 of 1970, 55th Billboard 100 73 (1969), DDD 77 of 1969, Billboard100 78, Germany 157 of the 1960s (peak 1 10 weeks), Acclaimed 1996 (1969), RYM 40 of 1969, NY Daily Love list 41, Guardian Pop 30, Global 33 (5 M sold) - 1969"
+  },
+  {
+    "rank": 51,
+    "artist": "The Beatles",
+    "song": "Hey Jude",
+    "year": 1968,
+    "misc": "UK 1 - Sep 1968 (28 weeks), US Billboard 1 - Sep 1968 (19 weeks), US BB 1 of 1968, US CashBox 1 of 1968, Record World 1 - 1968, WABC NY 1 of 1968, US Radio 1 of 1968 (peak 1 16 weeks), KQV 1 of 1968, Keener 1 - Aug 1968 (11 weeks), Canada 1 - Aug 1968 (11 weeks), Holland 1 - Sep 1968 (21 weeks), Brazil 1 of 1968, Switzerland 1 - Sep 1968 (19 weeks), Norway 1 - Sep 1968 (14 weeks), Flanders 1 - Sep 1968 (3 months), Australia 1 of 1968, Germany 1 - Jan 1969 (5 months), Eire 1 for 3 weeks - Sep 1968, Canada RPM 1 for 3 weeks - Sep 1968, Canada 1 of 1968, New Zealand 1 for 5 weeks - Oct 1968, NZ Listner 1 - Sep 1968 (10 weeks), Australia 1 for 13 weeks - Oct 1968, Australia Goset 1 - Oct 1968 (28 weeks), France 1 for 4 weeks - Nov 1968, Germany 1 for 2 weeks - Oct 1968, Europe 1 of the 1960s (1968), Grammy Hall of Fame in 2001 (1968), Top Song of 1968 of the Billboard 50th list, US 4 X Platinum (certified by RIAA in Feb 1999), Denmark 2 of 1968, DDD 2 of 1968, OzNet 2, Grammy in 1968 (Nominated), France (SNEP) 3 - Sep 1968 (3 months), Virgin 3, DMDB 4 (1968), nuTsie 5 of 1960s, Switzerland 8 of 1968, Rolling Stone 8, Billboard 50th song 8, WXPN 9, D.Marsh 9 of 1968, Billboard100 10, 55th Billboard 100 10 (1968), TheQ 20, US invalid BB 23 of 1968, POP 23 of 1968, Vinyl Surrender 23 (1968), Italy 30 of 1968, Scrobulate 32 of classic rock, Acclaimed 32 (1968), Germany 52 of the 1960s (peak 1 19 weeks), Belgium 55 of all time, Poland 84 of all time, UKMIX 151, RYM 1 of 1968, WFUV 31, Global 7 (10 M sold) - 1968, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 52,
+    "artist": "Procol Harum",
+    "song": "A Whiter Shade of Pale",
+    "year": 1967,
+    "misc": "UK 1 - May 1967 (15 weeks), Canada 1 - Jun 1967 (10 weeks), Holland 1 - Jun 1967 (25 weeks), France 1 - May 1972 (8 weeks), Flanders 1 - Jun 1967 (4 months), Italy 1 for 7 weeks - Sep 1967, Germany 1 - Jul 1967 (4 months), Eire 1 for 4 weeks - Jun 1967, Canada RPM 1 for 1 week - Aug 1967, New Zealand 1 for 1 week - Aug 1967, NZ Listner 1 - Jul 1967 (10 weeks), Australia 1 for 3 weeks - Jul 1967, Australia Goset 1 - Jun 1967 (28 weeks), France 1 for 9 weeks - May 1967, Germany 1 for 2 weeks - Aug 1967, Spain 1 for 2 weeks - Sep 1967, Grammy Hall of Fame in 1998 (1967), Brit best song 1977, Record World 3 - 1967, Norway 3 - Jun 1967 (11 weeks), Europe 4 of the 1960s (1967), Vinyl Surrender 4 (1967), US Billboard 5 - Jun 1967 (12 weeks), DDD 6 of 1967, Italy 10 of 1967, Belgium 16 - Jul 1972 (8 weeks), France (InfoDisc) 19 of the 1960s (peak 1, 34 weeks, 650k sales estimated, 1967), South Africa 19 of 1967, Keener 20 - Jun 1967 (4 weeks), Brazil 21 of 1967, nuTsie 26 of 1960s, Canada 27 of 1967, D.Marsh 31 of 1967, US Radio 33 of 1967 (peak 5 9 weeks), WABC NY 35 of 1967, TOTP 36, US BB 38 of 1967, US invalid BB 38 of 1967, POP 38 of 1967, US CashBox 47 of 1967, Rolling Stone 57, WXPN 60, Scrobulate 62 of oldies, Poland 69 of all time, UKMIX 72, DMDB 73 (1967), Belgium 75 of all time, Acclaimed 100 (1967), OzNet 131, Germany 144 of the 1960s (peak 1 15 weeks), RYM 5 of 1967, Global 7 (10 M sold) - 1967, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 53,
+    "artist": "Frank Sinatra",
+    "song": "Strangers in the Night",
+    "year": 1966,
+    "misc": "UK 1 - May 1966 (20 weeks), US Billboard 1 - May 1966 (15 weeks), Record World 1 - 1966, Keener 1 - May 1966 (8 weeks), Flanders 1 - Jun 1966 (4 months), Italy 1 of 1966, Italy 1 for 10 weeks - Sep 1966, Germany 1 - Jul 1966 (5 months), Eire 1 for 2 weeks - Jun 1966, Australia 1 for 2 weeks - Jul 1966, Germany 1 for 8 weeks - Aug 1966, Spain 1 for 5 weeks - Aug 1966, Grammy in 1966, Grammy Hall of Fame in 2008 (1966), Golden Globe in 1966 (film 'A Man Could Get Killed'), Canada 2 - May 1966 (13 weeks), Holland 2 - Jun 1966 (16 weeks), WABC NY 3 of 1966, South Africa 3 of 1966, US CashBox 4 of 1966, KQV 4 of 1966, Norway 5 - Jul 1966 (14 weeks), Scrobulate 6 of swing, Australia 9 of 1966, NZ Listner 10 - Aug 1966 (1 week), Brazil 11 of 1966, Denmark 12 of 1966, US BB 15 of 1966, US Radio 23 of 1966 (peak 1 8 weeks), US invalid BB 29 of 1966, POP 29 of 1966, Germany 48 of the 1960s (peak 1 21 weeks), UKMIX 217, RIAA 275, Acclaimed 1681 (1966), RYM 42 of 1966, NY Daily Love list 36"
+  },
+  {
+    "rank": 54,
+    "artist": "The Rolling Stones",
+    "song": "(I Can't Get No) Satisfaction",
+    "year": 1965,
+    "misc": "UK 1 - Aug 1965 (12 weeks), US Billboard 1 - Jun 1965 (14 weeks), Record World 1 - 1965, WABC NY 1 of 1965, Keener 1 - Jun 1965 (8 weeks), Canada 1 - Jun 1965 (20 weeks), Holland 1 - Aug 1965 (40 weeks), Norway 1 - Aug 1965 (13 weeks), Germany 1 - Jan 1966 (5 months), Eire 1 for 4 weeks - Sep 1965, Australia 1 for 1 week - Aug 1965, Europarade 1 for 8 weeks - Sep 1965, Germany 1 for 6 weeks - Oct 1965, Grammy Hall of Fame in 1998 (1965), 1 in 2FM list, DDD 1 of 1965, D.Marsh 1 of 1965, nuTsie 1 of 1960s, Library of Congress artifact added 2006 (1965), Europe 2 of the 1960s (1965), Rolling Stone 2, Acclaimed 2 (1965), US BB 3 of 1965, US Radio 3 of 1965 (peak 1 10 weeks), US Gold (certified by RIAA in Jul 1965), US CashBox 5 of 1965, DMDB 5 (1965), Flanders 6 - Aug 1965 (3 months), Virgin 6, KQV 14 of 1965, RIAA 16, South Africa 17 of 1965, Brazil 18 of 1966, WXPN 20, US invalid BB 26 of 1965, POP 26 of 1965, Belgium 30 - Sep 1970 (2 weeks), Vinyl Surrender 39 (1965), Belgium 43 of all time, OzNet 48, Italy 62 of 1965, Germany 79 of the 1960s (peak 1 19 weeks), TheQ 97, UKMIX 912, RYM 8 of 1965, WFUV 19, Party 212 of 1999, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 55,
+    "artist": "The Beatles",
+    "song": "I Want to Hold Your Hand",
+    "year": 1964,
+    "misc": "UK 1 - Dec 1963 (25 weeks), US Billboard 1 - Jan 1964 (15 weeks), US BB 1 of 1964, US CashBox 1 of 1964, US Radio 1 of 1964 (peak 1 13 weeks), KQV 1 of 1964, Keener 1 - Jan 1964 (6 weeks), Canada 1 - Jan 1964 (17 weeks), Norway 1 - Jan 1964 (12 weeks), Germany 1 - Feb 1964 (5 months), NZ Lever 1 - Dec 1963 (11 weeks), Australia 1 for 7 weeks - Dec 1963, Europarade 1 for 9 weeks - Feb 1964, Germany 1 for 8 weeks - Feb 1964, Grammy Hall of Fame in 1998 (1964), Top Song of 1964 of the Billboard 50th list, WABC NY 2 of 1964, Brazil 2 of 1964, Denmark 2 of 1964, Australia 2 of 1963, UK sales 2 of the 1960s (1,750 k in 1963), Grammy in 1964 (Nominated), US Gold (certified by RIAA in Feb 1964), DDD 4 of 1963, Flanders 6 - Feb 1964 (4 months), South Africa 6 of 1963, US invalid BB 7 of 1964, POP 7 of 1964, D.Marsh 8 of 1964, Record World 13 - 1964, DMDB 13 (1963), Rolling Stone 16, nuTsie 25 of 1960s, RIAA 28, Scrobulate 29 of oldies, Acclaimed 30 (1963), Billboard 50th song 39, Germany 40 of the 1960s (peak 1 21 weeks), 55th Billboard 100 44 (1964), Billboard100 45, UKMIX 212, WXPN 350, RYM 2 of 1964, WFUV 20, Global 7 (10 M sold) - 1963, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 56,
+    "artist": "Trini Lopez",
+    "song": "If I Had a Hammer",
+    "year": 1963,
+    "misc": "Flanders 1 - Sep 1963 (7 months), Europarade 1 for 7 weeks - Nov 1963, France 1 for 3 weeks - Oct 1963, Mexico 1 for 2 weeks - Feb 1964, Norway 2 - Oct 1963 (11 weeks), Germany 2 - Jan 1964 (5 months), NZ Lever 2 - Sep 1963 (4 weeks), US Billboard 3 - Jul 1963 (14 weeks), UK 4 - Sep 1963 (17 weeks), Canada 5 - Aug 1963 (12 weeks), US BB 37 of 1963, US Radio 39 of 1963 (peak 3 8 weeks), US CashBox 41 of 1963, KQV 42 of 1963, Brazil 48 of 1964, Germany 58 of the 1960s (peak 2 21 weeks), WABC NY 60 of 1963, Italy 61 of 1964, UKMIX 926, RYM 151 of 1963"
+  },
+  {
+    "rank": 57,
+    "artist": "Ray Charles",
+    "song": "I Can't Stop Loving You",
+    "year": 1962,
+    "misc": "UK 1 - Jun 1962 (17 weeks), US Billboard 1 - May 1962 (18 weeks), KQV 1 of 1962, Canada 1 - May 1962 (14 weeks), Flanders 1 - Jun 1962 (5 months), NZ Lever 1 - Jun 1962 (6 weeks), Australia 1 for 4 weeks - Jun 1962, Grammy Hall of Fame in 2001 (1962), US BB 2 of 1962, WABC NY 2 of 1962, US Radio 2 of 1962 (peak 1 12 weeks), Grammy in 1962 (Nominated), Brazil 4 of 1963, Norway 4 - Jul 1962 (12 weeks), US Gold (certified by RIAA in Jul 1962), US CashBox 6 of 1962, DDD 6 of 1962, Germany 8 - Sep 1962 (2 months), South Africa 11 of 1962, US invalid BB 30 of 1962, POP 30 of 1962, D.Marsh 35 of 1962, Italy 75 of 1963, Scrobulate 80 of r & b, Billboard 50th song 98, Rolling Stone 161, UKMIX 303, Acclaimed 507 (1962), RYM 16 of 1962, NY Daily Love list 10"
+  },
+  {
+    "rank": 58,
+    "artist": "Ben E King",
+    "song": "Stand By Me",
+    "year": 1961,
+    "misc": "Eire 1 for 3 weeks - Feb 1987, Canada RPM 1 for 1 week - Dec 1986, Grammy Hall of Fame in 1998 (1961), DDD 1 of 1961, D.Marsh 1 of 1961, Library of Congress artifact added 2014 (1961), ODK Germany 2 - Mar 1987 (16 weeks) (9 weeks in top 10), Switzerland 3 - Mar 1987 (9 weeks), US Billboard 4 - May 1961 (14 weeks), Germany 4 - Mar 1987 (3 months), UK Gold (certified by BPI in Mar 1987), Holland 7 - Mar 1987 (7 weeks), Belgium 7 - Mar 1987 (6 weeks), US invalid BB 7 of 1961, POP 7 of 1961, Norway 9 - Apr 1987 (1 week), Scrobulate 14 of soul, Canada 16 - May 1961 (9 weeks), Austria 17 - Apr 1987 (2 months), RIAA 25, UK 27 - Jun 1961 (7 weeks), WABC NY 38 of 1961, DMDB 39 (1961), US CashBox 43 of 1961, Acclaimed 53 (1961), US Radio 55 of 1961 (peak 4 7 weeks), Canada 58 of 1987, nuTsie 60 of 1960s, US BB 63 of 1961, Vinyl Surrender 88 (1961), 95 in 2FM list, Italy 96 of 1962, Rolling Stone 121, Germany 235 of the 1980s (peak 2 11 weeks), WXPN 746, RYM 2 of 1961, BBC Rich Song 6 (songwriter royalties $28.9M), Party 269 of 1999, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 59,
+    "artist": "Elvis Presley",
+    "song": "Are You Lonesome Tonight?",
+    "year": 1960,
+    "misc": "UK 1 - Jan 1961 (15 weeks), US Billboard 1 - Nov 1960 (16 weeks), Canada 1 - Nov 1960 (16 weeks), Flanders 1 - Dec 1960 (4 months), Record Mirror 1 for 4 weeks - Jan 1961, NZ Lever 1 - Jan 1961 (7 weeks), Australia 1 for 6 weeks - Dec 1960, Europarade 1 for 8 weeks - Jan 1961, Grammy Hall of Fame in 2007 (1960), US 2 X Platinum (certified by RIAA in Mar 1992), Grammy in 1960 (Nominated), Sweden (alt) 3 - Nov 1980 (13 weeks), Norway 3 - Jan 1961 (16 weeks), US invalid BB 3 of 1960, POP 3 of 1960, Germany 4 - Feb 1961 (3 months), US CashBox 6 of 1961, US Radio 6 of 1960 (peak 1 11 weeks), Australia 9 of 1960, D.Marsh 9 of 1960, South Africa 12 of 1960, Holland 15 - Jan 1981 (7 weeks), Belgium 15 - Jan 1981 (6 weeks), WABC NY 17 of 1960, Italy 28 of 1961, DDD 29 of 1960, Scrobulate 79 of rock & roll, Billboard 50th song 81, 55th Billboard 100 91 (1960), US BB 96 of 1961, Billboard100 96, Germany 215 of the 1960s (peak 4 13 weeks), UKMIX 268, RYM 4 of 1960, NY Daily Love list 8, Global 33 (5 M sold) - 1960"
+  },
+  {
+    "rank": 60,
+    "artist": "Bobby Darin",
+    "song": "Mack the Knife",
+    "year": 1959,
+    "misc": "UK 1 - Sep 1959 (18 weeks), US Billboard 1 - Aug 1959 (26 weeks), US CashBox 1 of 1959, US Radio 1 of 1959 (peak 1 18 weeks), Your Hit Parade 1 of 1959, Canada 1 - Aug 1959 (18 weeks), Radio Luxembourg sheet music 1 for 2 weeks - Oct 1959, Europarade 1 for 1 week - Nov 1959, US invalid BB 1 of 1959, Grammy in 1959, Grammy Hall of Fame in 1999 (1959), POP 1 of 1959, Library of Congress artifact added 2015 (1959), US BB 2 of 1959, Billboard100 3, 55th Billboard 100 3 (1959), DDD 3 of 1959, Billboard 50th song 3, Norway 9 - Nov 1959 (3 weeks), Flanders 11 - Nov 1959 (3 months), South Africa 13 of 1959, RIAA 15, Brazil 20 of 1959, DMDB 33 (1959), Italy 38 of 1960, D.Marsh 40 of 1959, nuTsie 56 of 1950s, Europe 88 of the 1950s (1959), UKMIX 167, Rolling Stone 251, Acclaimed 407 (1959), WXPN 518, RYM 15 of 1959, Party 226 of 1999"
+  },
+  {
+    "rank": 61,
+    "artist": "The Kingston Trio",
+    "song": "Tom Dooley",
+    "year": 1958,
+    "misc": "US Billboard 1 - Sep 1958 (21 weeks), Canada 1 - Oct 1958 (14 weeks), Norway 1 - Jan 1959 (25 weeks), Flanders 1 - Jan 1959 (7 months), Italy 1 for 1 week - Feb 1959, Australia 1 for 8 weeks - Dec 1958, Germany 1 for 5 weeks - Mar 1959, Grammy Hall of Fame in 1998 (1958), Library of Congress artifact added 2008 (1958), US Gold (certified by RIAA in Jan 1959), UK 5 - Nov 1958 (14 weeks), Australia 5 of 1958, Italy 5 of 1959, South Africa 8 of 1958, Europe 18 of the 1950s (1958), US CashBox 20 of 1958, US BB 28 of 1958, US invalid BB 37 of 1958, POP 37 of 1958, DDD 94 of 1958, RIAA 197, Acclaimed 1001 (1958), RYM 89 of 1958"
+  },
+  {
+    "rank": 62,
+    "artist": "Elvis Presley",
+    "song": "Jailhouse Rock",
+    "year": 1957,
+    "misc": "UK 1 - Jan 1958 (20 weeks), US Billboard 1 - Oct 1957 (27 weeks), Canada 1 - Oct 1957 (14 weeks), Record Mirror 1 for 3 weeks - Jan 1958, US invalid BB 1 of 1957, Grammy Hall of Fame in 2017 (1957), DDD 1 of 1957, POP 1 of 1957, US 2 X Platinum (certified by RIAA in Mar 1992), Europe 2 of the 1950s (1957), Scrobulate 2 of rockabilly, nuTsie 2 of 1950s, D.Marsh 4 of 1957, Holland 5 - Jan 1974 (9 weeks), UK sales 5 of the 1950s (880 k in 1958), Flanders 8 - Dec 1957 (2 months), France 10 - Dec 1971 (1 week), US CashBox 11 of 1957, Belgium 11 - Feb 1974 (7 weeks), South Africa 11 of 1958, US BB 16 of 1957, AFI 21, Italy 60 of 1958, Rolling Stone 67, DMDB 69 (1957), Acclaimed 192 (1957), Belgium 214 of all time, UKMIX 291, RYM 3 of 1957, Global 33 (5 M sold) - 1957, Party 54 of 1999, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 63,
+    "artist": "Doris Day",
+    "song": "Que sera sera (Whatever will be will be)",
+    "year": 1956,
+    "misc": "UK 1 - Jun 1956 (22 weeks), Flanders 1 - Dec 1956 (6 months), Radio Luxembourg sheet music 1 for 5 weeks - Sep 1956, Record Mirror 1 for 6 weeks - Aug 1956, Australia 1 for 8 weeks - Sep 1956, France 1 for 1 week - Jan 1957, Oscar in 1956 (film 'The Man Who Knew Too Much'), Grammy Hall of Fame in 2012 (1956), ASCAP song of 1955, US Billboard 2 - Jun 1956 (27 weeks), US CashBox 3 - Jun 1956 (25 weeks), Italy 4 of 1957, US CashBox 5 of 1956, Your Hit Parade 5 of 1956, US BB 7 of 1956, Brazil 16 of 1957, US invalid BB 23 of 1956, POP 23 of 1956, Europe 27 of the 1950s (1956), UKMIX 34, AFI 48, RIAA 165, RYM 23 of 1956"
+  },
+  {
+    "rank": 64,
+    "artist": "Bill Haley & his Comets",
+    "song": "Rock Around the Clock",
+    "year": 1955,
+    "misc": "UK 1 - Jan 1955 (36 weeks), US Billboard 1 - May 1955 (24 weeks), US CashBox 1 - Jul 1954 (31 weeks), Your Hit Parade 1 of 1955, Record Mirror 1 for 8 weeks - Nov 1955, Australia 1 for 6 weeks - Aug 1955, Germany 1 for 4 weeks - Jun 1956, UK sales 1 of the 1950s (1,390 k in 1955), US invalid BB 1 of 1955, Grammy Hall of Fame in 1982 (1954), DDD 1 of 1954, POP 1 of 1955, DZE 1 of 1955, ASCAP song of 1953, Library of Congress artifact added 2017 (1954), US BB 2 of 1955, Flanders 2 - Nov 1955 (14 months), DMDB 2 (1954), Italy 3 of 1957, UKMIX 3, nuTsie 3 of 1950s, Brazil 4 of 1956, Europe 5 of the 1950s (1955), D.Marsh 7 of 1955, Scrobulate 8 of rock & roll, RIAA 12, Germany 17 - Jun 1968 (2 months), Holland 27 - Jun 1968 (5 weeks), Belgium 30 - Jun 1974 (1 week), 41 in 2FM list, Acclaimed 49 (1954), AFI 50, Rolling Stone 158, RYM 2 of 1954, Guardian Pop 5, Global 4 (20 M sold) - 1954, Party 180 of 1999, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 65,
+    "artist": "Doris Day",
+    "song": "Secret Love",
+    "year": 1954,
+    "misc": "UK 1 - Apr 1954 (29 weeks), US Billboard 1 - Jan 1954 (22 weeks), US 1940s 1 - Jan 1954 (20 weeks), US 1 for 3 weeks - Feb 1954, UK 40s Sheet Music 1 - Mar 1954 (30 weeks), US CashBox 1 - Nov 1953 (30 weeks), Radio Luxembourg sheet music 1 for 7 weeks - May 1954, Oscar in 1953 (film 'Calamity Jane'), Grammy Hall of Fame in 1999 (1953), UKMIX 7, DZE 8 of 1954, US BB 9 of 1954, US invalid BB 11 of 1954, POP 11 of 1954, Your Hit Parade 12 of 1954, Brazil 17 of 1954, Italy 54 of 1954, RYM 12 of 1953"
+  },
+  {
+    "rank": 66,
+    "artist": "Les Paul & Mary Ford",
+    "song": "Vaya Con Dios (may God Be With You)",
+    "year": 1953,
+    "misc": "US Billboard 1 - Jun 1953 (31 weeks), US 1940s 1 - Jun 1953 (31 weeks), US 1 for 11 weeks - Aug 1953, US CashBox 1 - Jun 1953 (35 weeks), Australia 1 for 4 weeks - Nov 1953, Grammy Hall of Fame in 2005 (1953), DZE 1 of 1953, US BB 2 of 1953, Italy 2 of 1954, US invalid BB 3 of 1953, POP 3 of 1953, UK 40s Sheet Music 5 - Sep 1953 (19 weeks), Your Hit Parade 5 of 1953, Brazil 5 of 1954, UK 7 - Nov 1953 (4 weeks), Europe 97 of the 1950s (1953), RYM 24 of 1953"
+  },
+  {
+    "rank": 67,
+    "artist": "Jo Stafford",
+    "song": "You Belong to Me",
+    "year": 1952,
+    "misc": "UK 1 - Nov 1952 (19 weeks), US Billboard 1 - Aug 1952 (25 weeks), US 1940s 1 - Aug 1952 (23 weeks), US 1 for 5 weeks - Sep 1952, UK Sheet Music 1 for 6 weeks - Dec 1952, UK 40s Sheet Music 1 - Nov 1952 (24 weeks), US CashBox 1 - Aug 1952 (27 weeks), Radio Luxembourg sheet music 1 for 7 weeks - Dec 1952, Australia 1 for 6 weeks - Jan 1953, Grammy Hall of Fame in 1998 (1952), DZE 1 of 1952, US BB 4 of 1952, US invalid BB 4 of 1952, POP 4 of 1952, Your Hit Parade 5 of 1952, UKMIX 100, RYM 145 of 1952"
+  },
+  {
+    "rank": 68,
+    "artist": "Nat King Cole",
+    "song": "Too Young",
+    "year": 1951,
+    "misc": "US Billboard 1 - Apr 1951 (29 weeks), US 1940s 1 - Apr 1951 (28 weeks), US BB 1 of 1951, US 1 for 5 weeks - Jun 1951, US CashBox 1 - Apr 1951 (37 weeks), Radio Luxembourg sheet music 1 for 12 weeks - Aug 1951, Australia 1 for 9 weeks - Sep 1951, US invalid BB 1 of 1951, POP 1 of 1951, Your Hit Parade 4 of 1951, DDD 5 of 1951, Brazil 7 of 1953, DZE 8 of 1951, Italy 30 of 1952, RYM 10 of 1951"
+  },
+  {
+    "rank": 69,
+    "artist": "Nat King Cole",
+    "song": "Mona Lisa",
+    "year": 1950,
+    "misc": "US Billboard 1 - Jun 1950 (27 weeks), US 1940s 1 - Jun 1950 (26 weeks), US 1 for 5 weeks - Jul 1950, US CashBox 1 - Jun 1950 (33 weeks), Australia 1 for 5 weeks - Nov 1950, Oscar in 1950 (film 'Captain Carey, U.S.A.'), Grammy Hall of Fame in 1992 (1950), ASCAP song of 1950, UK 40s Sheet Music 2 - Sep 1950 (21 weeks), US invalid BB 2 of 1950, POP 2 of 1950, DDD 4 of 1950, DZE 6 of 1950, France (50s) 13 of 1950, Your Hit Parade 15 of 1950, Brazil 15 of 1952, Italy 48 of 1951, DMDB 51 (1950), RIAA 109, Acclaimed 1292 (1950), RYM 2 of 1950"
+  },
+  {
+    "rank": 70,
+    "artist": "Vaughn Monroe",
+    "song": "(Ghost) Riders in the Sky",
+    "year": 1949,
+    "misc": "US Billboard 1 - Apr 1949 (22 weeks), US 1940s 1 - Apr 1949 (20 weeks), US 1 for 11 weeks - May 1949, UK Sheet Music 1 for 9 weeks - Aug 1949, UK 40s Sheet Music 1 - Jun 1949 (23 weeks), Australia 1 for 5 weeks - Nov 1949, US invalid BB 1 of 1949, Peel list 1 of 1949, POP 1 of 1949, DZE 1 of 1949, DDD 6 of 1949, Your Hit Parade 12 of 1949, Brazil 12 of 1950, nuTsie 15 of 1940s, Music Imprint 20 of 1940s, Europe 33 of the 1940s (1949), RIAA 297, Acclaimed 1303 (1949)"
+  },
+  {
+    "rank": 71,
+    "artist": "Dinah Shore",
+    "song": "Buttons & Bows",
+    "year": 1948,
+    "misc": "US Billboard 1 - Sep 1948 (25 weeks), US 1940s 1 - Oct 1948 (23 weeks), US 1 for 10 weeks - Nov 1948, UK Sheet Music 1 for 11 weeks - Nov 1948, UK 40s Sheet Music 1 - Oct 1948 (32 weeks), Australia 1 for 12 weeks - Jan 1949, DZE 1 of 1948, US invalid BB 3 of 1948, POP 3 of 1948, Your Hit Parade 5 of 1948, Brazil 27 of 1949, DDD 50 of 1948, nuTsie 57 of 1940s, Europe 91 of the 1940s (1948), RYM 102 of 1948"
+  },
+  {
+    "rank": 72,
+    "artist": "Francis Craig",
+    "song": "Near You",
+    "year": 1947,
+    "misc": "US Billboard 1 - Aug 1947 (25 weeks), US 1940s 1 - Sep 1947 (21 weeks), US 1 for 12 weeks - Sep 1947, Grammy Hall of Fame in 2013 (1947), DZE 1 of 1947, ASCAP song of 1947, US invalid BB 6 of 1947, POP 14 of 1947, Your Hit Parade 16 of 1947, Brazil 24 of 1947, DDD 24 of 1947, Europe 85 of the 1940s (1947), RIAA 355"
+  },
+  {
+    "rank": 73,
+    "artist": "Frank Sinatra",
+    "song": "Five Minutes More",
+    "year": 1946,
+    "misc": "US Billboard 1 - Aug 1946 (22 weeks), US 1940s 1 - Aug 1946 (18 weeks), US 1 for 2 weeks - Sep 1946, UK Sheet Music 1 for 10 weeks - Dec 1946, UK 40s Sheet Music 1 - Nov 1946 (24 weeks), Australia 1 for 1 month - May 1947, DZE 8 of 1946, POP 10 of 1946, Europe 11 of the 1940s (1946), US invalid BB 15 of 1946, Brazil 32 of 1946, DDD 45 of 1946, RYM 43 of 1946"
+  },
+  {
+    "rank": 74,
+    "artist": "Les Brown & Doris Day",
+    "song": "Sentimental Journey",
+    "year": 1945,
+    "misc": "US Billboard 1 - Mar 1945 (28 weeks), US 1940s 1 - Apr 1945 (23 weeks), US 1 for 9 weeks - May 1945, US invalid BB 1 of 1945, Grammy Hall of Fame in 1998 (1945), POP 1 of 1945, DZE 3 of 1945, DDD 7 of 1945, nuTsie 12 of 1940s, Music Imprint 13 of 1940s, Your Hit Parade 23 of 1945, Europe 37 of the 1940s (1945), Brazil 44 of 1945, RIAA 77, Acclaimed 818 (1944), RYM 69 of 1945, Song of 1944"
+  },
+  {
+    "rank": 75,
+    "artist": "Bing Crosby",
+    "song": "Swinging On a Star",
+    "year": 1944,
+    "misc": "US Billboard 1 - May 1944 (28 weeks), US 1940s 1 - Jun 1944 (20 weeks), US 1 for 9 weeks - Aug 1944, Australia 1 for 1 month - Apr 1945, Oscar in 1944 (film 'Going My Way'), Grammy Hall of Fame in 2002 (1944), DZE 1 of 1944, ASCAP song of 1944, DDD 2 of 1944, US invalid BB 3 of 1944, POP 3 of 1944, UK 40s Sheet Music 5 - Oct 1944 (3 weeks), Your Hit Parade 5 of 1944, nuTsie 6 of 1940s, Europe 14 of the 1940s (1944), AFI 37, Brazil 64 of 1945, Acclaimed 1619 (1944), RYM 44 of 1944"
+  },
+  {
+    "rank": 76,
+    "artist": "The Mills Brothers",
+    "song": "Paper Doll",
+    "year": 1943,
+    "misc": "US Billboard 1 - 1943 (36 weeks), US 1940s 1 - Aug 1943 (30 weeks), US 1 for 12 weeks - Nov 1943, Grammy Hall of Fame in 1998 (1943), UK 40s Sheet Music 2 - Mar 1944 (5 weeks), DDD 2 of 1942, DZE 2 of 1943, Europe 3 of the 1940s (1943), US invalid BB 3 of 1943, POP 4 of 1943, nuTsie 10 of 1940s, Your Hit Parade 12 of 1943, Music Imprint 17 of 1940s, Brazil 58 of 1944, RIAA 272, Acclaimed 1486 (1943), RYM 42 of 1942, Global 7 (10 M sold) - 1943"
+  },
+  {
+    "rank": 77,
+    "artist": "Bing Crosby",
+    "song": "White Christmas",
+    "year": 1942,
+    "misc": "US Billboard 1 - Dec 1946 (6 weeks), US 1940s 1 - Oct 1942 (47 weeks), US 1 for 11 weeks - Oct 1942, UK Sheet Music 1 for 2 weeks - Nov 1942, UK 40s Sheet Music 1 - Sep 1942 (8 weeks), Australia 1 for 5 months - Jun 1943, US invalid BB 1 of 1942, Oscar in 1942 (film 'Holiday Inn'), Grammy Hall of Fame in 1974 (1942), DDD 1 of 1942, POP 1 of 1942, DMDB 1 (1942), nuTsie 1 of 1940s, DZE 1 of 1942, Music Imprint 1 of 1940s, Library of Congress artifact added 2002 (1942), Europe 2 of the 1940s (1942), RIAA 2, Scrobulate 2 of christmas, UK 5 - Dec 1977 (20 weeks), AFI 5, Norway 6 - Dec 1959 (2 weeks), ODK Germany 53 - Dec 2007 (10 weeks), Brazil 54 of 1943, Switzerland 56 - Dec 2007 (2 weeks), US Radio 165 of 1961 (peak 20 1 week), Acclaimed 306 (1942), UK Silver (certified by BPI in Feb 1978), Visconti song of 1947, RYM 1 of 1942, Global 1 (50 M sold) - 1942, BBC Rich Song 2 (songwriter royalties $39.6M)"
+  },
+  {
+    "rank": 78,
+    "artist": "Glenn Miller",
+    "song": "Chattanooga Choo Choo",
+    "year": 1941,
+    "misc": "US Billboard 1 - 1941 (25 weeks), US 1940s 1 - Sep 1941 (23 weeks), US 1 for 9 weeks - Nov 1941, Grammy Hall of Fame in 1996 (1941), ASCAP song of 1941, Oscar in 1941 (film 'Sun Valley Serenade') (Nominated), DDD 4 of 1941, US invalid BB 9 of 1941, nuTsie 9 of 1940s, Your Hit Parade 11 of 1941, Brazil 13 of 1942, POP 16 of 1941, Europe 54 of the 1940s (1941), RYM 2 of 1941, Song of 1941"
+  },
+  {
+    "rank": 79,
+    "artist": "Glenn Miller",
+    "song": "In the Mood",
+    "year": 1940,
+    "misc": "US Billboard 1 - Oct 1939 (30 weeks), Australia 1 for 5 months - Jan 1942, Europe 1 of the 1940s (1940), Grammy Hall of Fame in 1983 (1939), nuTsie 1 of 1930s, ASCAP song of 1940, Library of Congress artifact added 2004 (1939), US invalid BB 2 of 1940, POP 2 of 1940, Scrobulate 4 of swing, Music Imprint 4 of 1940s, Your Hit Parade 7 of 1940, RIAA 11, Brazil 12 of 1941, Holland 15 - Aug 1972 (7 weeks), Belgium 18 - Sep 1972 (2 weeks), DMDB 67 (1939), Acclaimed 477 (1939), RYM 4 of 1939, Song of 1938, Party 45 of 1999"
+  },
+  {
+    "rank": 80,
+    "artist": "Judy Garland",
+    "song": "Over the Rainbow",
+    "year": 1939,
+    "misc": "UK Sheet Music 1 for 4 weeks - Apr 1940, UK 40s Sheet Music 1 - Mar 1940 (9 weeks), US invalid BB 1 of 1939, Oscar in 1939 (film 'The Wizard of Oz'), Grammy Hall of Fame in 1981 (1939), AFI 1, POP 1 of 1939, RIAA 1, Music Imprint 1 of 1930s, ASCAP song of 1938, Library of Congress artifact added 2016 (1939), DMDB 3 (1939), nuTsie 3 of 1930s, US Billboard 5 - 1939 (12 weeks), Europe 5 of the 1930s (1939), Your Hit Parade 19 of 1939, Scrobulate 71 of vocal, WXPN 269, Acclaimed 497 (1939), Visconti song of 1939, RYM 1 of 1939"
+  },
+  {
+    "rank": 81,
+    "artist": "Artie Shaw",
+    "song": "Begin the Beguine",
+    "year": 1938,
+    "misc": "US Billboard 1 - 1938 (18 weeks), Your Hit Parade 1 of 1938, Grammy Hall of Fame in 1977 (1938), Library of Congress artifact added 2012 (1938), US invalid BB 2 of 1938, POP 2 of 1938, Music Imprint 4 of 1930s, nuTsie 18 of 1930s, Brazil 32 of 1939, DMDB 84 (1938), RIAA 91, Acclaimed 1163 (1938), RYM 10 of 1938, Song of 1938"
+  },
+  {
+    "rank": 82,
+    "artist": "Benny Goodman",
+    "song": "Sing, Sing, Sing (With A Swing)",
+    "year": 1937,
+    "misc": "Grammy Hall of Fame in 1982 (1937), ASCAP song of 1936, US invalid BB 3 of 1938, Peel list 3 of 1937, POP 3 of 1938, nuTsie 4 of 1930s, US Billboard 7 - 1938 (6 weeks), Music Imprint 16 of 1930s, Brazil 54 of 1939, RIAA 205, Acclaimed 526 (1937), WXPN 766"
+  },
+  {
+    "rank": 83,
+    "artist": "Bing Crosby",
+    "song": "Pennies From Heaven",
+    "year": 1936,
+    "misc": "US Billboard 1 - 1936 (15 weeks), Your Hit Parade 1 of 1936, US invalid BB 1 of 1936, Grammy Hall of Fame in 2004 (1936), POP 1 of 1936, Oscar in 1936 (film 'Pennies from Heaven') (Nominated), Music Imprint 8 of 1930s, nuTsie 23 of 1930s, Europe 32 of the 1930s (1936), RIAA 129, Acclaimed 1222 (1936), RYM 41 of 1936"
+  },
+  {
+    "rank": 84,
+    "artist": "Fred Astaire",
+    "song": "Cheek to Cheek",
+    "year": 1935,
+    "misc": "US Billboard 1 - 1935 (18 weeks), Your Hit Parade 1 of 1935, Grammy Hall of Fame in 2000 (1935), US invalid BB 2 of 1935, POP 2 of 1935, Oscar in 1935 (film 'Top Hat') (Nominated), AFI 15, Scrobulate 19 of vocal, nuTsie 27 of 1930s, Brazil 38 of 1936, RYM 1 of 1935"
+  },
+  {
+    "rank": 85,
+    "artist": "Leo Reisman",
+    "song": "Continental (you Kiss While You're Dancing)",
+    "year": 1934,
+    "misc": "US Billboard 1 - 1934 (7 weeks), Oscar in 1934 (film 'The Gay Divorcee'), US invalid BB 7 of 1934, POP 7 of 1934, Brazil 51 of 1936, Europe 71 of the 1930s (1934)"
+  },
+  {
+    "rank": 86,
+    "artist": "Ethel Waters",
+    "song": "Stormy Weather (Keeps Rainin' All the Time)",
+    "year": 1933,
+    "misc": "US Billboard 1 - 1933 (11 weeks), Grammy Hall of Fame in 2003 (1933), Library of Congress artifact added 2004 (1933), US invalid BB 3 of 1933, POP 4 of 1933, nuTsie 15 of 1930s, Brazil 37 of 1933, Acclaimed 1896 (1933), RYM 8 of 1933"
+  },
+  {
+    "rank": 87,
+    "artist": "Fred Astaire & Leo Reisman",
+    "song": "Night & Day",
+    "year": 1932,
+    "misc": "US Billboard 1 - 1932 (18 weeks), US invalid BB 1 of 1932, Grammy Hall of Fame in 2004 (1932), POP 1 of 1932, ASCAP song of 1932, Music Imprint 14 of 1930s, Brazil 21 of 1933, nuTsie 34 of 1930s, DMDB 52 (1932), RIAA 195, Acclaimed 1369 (1932), RYM 4 of 1932"
+  },
+  {
+    "rank": 88,
+    "artist": "Cab Calloway & his Cotton Club Orchestra",
+    "song": "Minnie the Moocher",
+    "year": 1931,
+    "misc": "US Billboard 1 - 1931 (17 weeks), Grammy Hall of Fame in 1999 (1931), US invalid BB 3 of 1931, POP 3 of 1931, Music Imprint 3 of 1930s, nuTsie 6 of 1930s, Brazil 32 of 1931, RIAA 82, Scrobulate 87 of swing, Acclaimed 649 (1931), Visconti song of 1931, RYM 1 of 1931"
+  },
+  {
+    "rank": 89,
+    "artist": "Harry Richman",
+    "song": "Puttin' on the Ritz",
+    "year": 1930,
+    "misc": "US Billboard 1 - 1930 (8 weeks), Grammy Hall of Fame in 2005 (1930), Library of Congress artifact added 2016 (1929), US invalid BB 2 of 1930, POP 2 of 1930, Music Imprint 7 of 1930s, Brazil 21 of 1930, nuTsie 37 of 1930s, RIAA 117, Acclaimed 1213 (1930)"
+  },
+  {
+    "rank": 90,
+    "artist": "Eddie Cantor",
+    "song": "Makin' Whoopee",
+    "year": 1929,
+    "misc": "ASCAP song of 1929, US Billboard 2 - 1929 (10 weeks), US invalid BB 2 of 1929, POP 2 of 1929, nuTsie 10 of 1920s, Music Imprint 14 of 1920s, Brazil 16 of 1929, Daily Deuce 26, RIAA 126, Acclaimed 1362 (1928), RYM 8 of 1928"
+  },
+  {
+    "rank": 91,
+    "artist": "Jimmie Rodgers",
+    "song": "T For Texas (Blue Yodel No 1)",
+    "year": 1928,
+    "misc": "Grammy Hall of Fame in 1985 (1928), Library of Congress artifact added 2004 (1927), US Billboard 2 - 1928 (11 weeks), nuTsie 5 of 1920s, Daily Deuce 7, US invalid BB 11 of 1928, POP 11 of 1928, Music Imprint 12 of 1920s, Brazil 62 of 1928, RIAA 331, Acclaimed 600 (1928), aceterrier.com 16 of the 1920s (1927), RYM 4 of 1928, Guardian Folk/ World 5"
+  },
+  {
+    "rank": 92,
+    "artist": "Hoagy Carmichael",
+    "song": "Stardust",
+    "year": 1927,
+    "misc": "Grammy Hall of Fame in 1995 (1927), ASCAP song of 1927, Library of Congress artifact added 2004 (1927), Music Imprint 10 of 1920s, Jazz Standard 12, nuTsie 31 of 1920s, RIAA 40, DMDB 43 (1929), Acclaimed 654 (1927), RYM 13 of 1928"
+  },
+  {
+    "rank": 93,
+    "artist": "Gene Austin",
+    "song": "Bye Bye, Blackbird",
+    "year": 1926,
+    "misc": "US Billboard 1 - Jul 1926 (12 weeks), Grammy Hall of Fame in 2005 (1926), ASCAP song of 1926, US invalid BB 5 of 1926, Music Imprint 9 of 1920s, POP 16 of 1926, Brazil 18 of 1927, nuTsie 25 of 1920s, Daily Deuce 27, RIAA 189, Acclaimed 1339 (1926), RYM 22 of 1926"
+  },
+  {
+    "rank": 94,
+    "artist": "Ben Bernie",
+    "song": "Sweet Georgia Brown",
+    "year": 1925,
+    "misc": "US Billboard 1 - Jun 1925 (13 weeks), US invalid BB 1 of 1925, POP 1 of 1925, ASCAP song of 1925, Music Imprint 7 of 1920s, Brazil 17 of 1926, nuTsie 35 of 1920s, RIAA 54, RYM 7 of 1925"
+  },
+  {
+    "rank": 95,
+    "artist": "George Gershwin",
+    "song": "Rhapsody in Blue",
+    "year": 1924,
+    "misc": "Grammy Hall of Fame in 1974 (1927), ASCAP song of 1924, Library of Congress artifact added 2002 (1924), US Billboard 3 - Oct 1924 (8 weeks), US invalid BB 3 of 1924, POP 3 of 1924, nuTsie 3 of 1920s, Europe 10 of the 1930s (1924), Brazil 28 of 1928, Acclaimed 763 (1924), aceterrier.com 50 of the 1920s (1924)"
+  },
+  {
+    "rank": 96,
+    "artist": "Bessie Smith",
+    "song": "Down Hearted Blues",
+    "year": 1923,
+    "misc": "US Billboard 1 - Jun 1923 (12 weeks), Grammy Hall of Fame in 2006 (1923), Library of Congress artifact added 2002 (1923), Music Imprint 2 of 1920s, US invalid BB 6 of 1923, POP 8 of 1923, Daily Deuce 16, nuTsie 19 of 1920s, Brazil 33 of 1925, RIAA 315, Acclaimed 852 (1923), RYM 1 of 1923, one of the Rock and Roll Hall of Fame 500"
+  },
+  {
+    "rank": 97,
+    "artist": "Fanny Brice",
+    "song": "My Man",
+    "year": 1922,
+    "misc": "US Billboard 1 - Feb 1922 (9 weeks), Grammy Hall of Fame in 1999 (1922), Library of Congress artifact added 2005 (1921), US invalid BB 6 of 1922, POP 6 of 1922, Brazil 16 of 1922, Daily Deuce 30, nuTsie 38 of 1920s, Acclaimed 1866 (1922), aceterrier.com 52 of the 1920s (1921)"
+  },
+  {
+    "rank": 98,
+    "artist": "Marion Harris",
+    "song": "I Ain't Got Nobody",
+    "year": 1921,
+    "misc": "US invalid BB 1 of 1921, POP 1 of 1921, US Billboard 3 - Jun 1921 (7 weeks), Brazil 18 of 1922, nuTsie 45 of 1920s, RYM 21 of 1921"
+  },
+  {
+    "rank": 99,
+    "artist": "Al Jolson",
+    "song": "Swanee",
+    "year": 1920,
+    "misc": "US Billboard 1 - May 1920 (18 weeks), US invalid BB 1 of 1920, Grammy Hall of Fame in 1998 (1920), POP 1 of 1920, nuTsie 1 of 1920s, Library of Congress artifact added 2004 (1920), Brazil 5 of 1921, Music Imprint 8 of 1910s, Europe 22 of the 1930s (1920), RIAA 124, Acclaimed 912 (1919), aceterrier.com 100 of the 1920s (1920), RYM 5 of 1920"
+  },
+  {
+    "rank": 100,
+    "artist": "Marion Harris",
+    "song": "After You've Gone",
+    "year": 1919,
+    "misc": "US Billboard 1 - Jan 1919 (9 weeks), ASCAP song of 1919, Library of Congress artifact added 2012 (1918), Brazil 20 of 1920"
+  },
+  {
+    "rank": 101,
+    "artist": "Original Dixieland Jazz Band",
+    "song": "Tiger Rag",
+    "year": 1918,
+    "misc": "US Billboard 1 - Aug 1918 (11 weeks), Library of Congress artifact added 2002 (1918), Peel list 4 of 1919, Music Imprint 7 of 1910s, Daily Deuce 13, Brazil 34 of 1920, RIAA 344, Acclaimed 1029 (1918)"
+  },
+  {
+    "rank": 102,
+    "artist": "Nora Bayes",
+    "song": "Over There",
+    "year": 1917,
+    "misc": "US Billboard 1 - Nov 1917 (10 weeks), Grammy Hall of Fame in 2008 (1917), Library of Congress artifact added 2005 (1917), Brazil 22 of 1918"
+  },
+  {
+    "rank": 103,
+    "artist": "John McCormack",
+    "song": "Somewhere a Voice is Calling",
+    "year": 1916,
+    "misc": "US Billboard 1 - Jan 1916 (9 weeks), Grammy Hall of Fame in 1999 (1915), Brazil 27 of 1917"
+  },
+  {
+    "rank": 104,
+    "artist": "Olive Kline & Reinald Werrenrath",
+    "song": "Hello, Frisco!",
+    "year": 1915,
+    "misc": "US Billboard 1 - Sep 1915 (10 weeks), ASCAP song of 1915, Brazil 21 of 1917"
+  },
+  {
+    "rank": 105,
+    "artist": "Heidelberg Quintet",
+    "song": "By the Beautiful Sea",
+    "year": 1914,
+    "misc": "US Billboard 1 - Jul 1914 (11 weeks), ASCAP song of 1914, Brazil 37 of 1915"
+  },
+  {
+    "rank": 106,
+    "artist": "Chauncy Olcott",
+    "song": "When Irish Eyes Are Smiling",
+    "year": 1913,
+    "misc": "US Billboard 1 - Jun 1913 (16 weeks), Peel list 3 of 1913, Music Imprint 4 of 1910s, Daily Deuce 14, RIAA 105, Acclaimed 1508 (1913)"
+  },
+  {
+    "rank": 107,
+    "artist": "Al Jolson",
+    "song": "That Haunting Melody",
+    "year": 1912,
+    "misc": "US Billboard 1 - Mar 1912 (11 weeks), Brazil 12 of 1913"
+  },
+  {
+    "rank": 108,
+    "artist": "Sophie Tucker",
+    "song": "Some of These Days",
+    "year": 1911,
+    "misc": "Grammy Hall of Fame in 1995 (1911), Library of Congress artifact added 2004 (1911), US Billboard 2 - Jul 1911 (9 weeks), Music Imprint 3 of 1910s, aceterrier.com 4 of 1900-19 (1911), nuTsie 40 of 1920s, Brazil 93 of 1928, Acclaimed 1559 (1911), Song of 1930"
+  },
+  {
+    "rank": 109,
+    "artist": "Louise Homer",
+    "song": "America the Beautiful",
+    "year": 1910,
+    "misc": "Music Imprint 1 of 1910s, US Billboard 8 - Jul 1925 (1 week), RIAA 50"
+  },
+  {
+    "rank": 110,
+    "artist": "Fisk University Jubilee Quartet",
+    "song": "Swing Low, Sweet Chariot",
+    "year": 1909,
+    "misc": "Grammy Hall of Fame in 2015 (1909), Library of Congress artifact added 2002 (1909), Music Imprint 4 of 1900s, US Billboard 7 - Jun 1910 (3 weeks), RIAA 35, Acclaimed 893 (1909)"
+  },
+  {
+    "rank": 111,
+    "artist": "Billy Murray & Haydn Quartet",
+    "song": "Take Me Out To The Ball Game",
+    "year": 1908,
+    "misc": "US Billboard 1 - Oct 1908 (16 weeks), RIAA 8, Brazil 20 of 1909"
+  },
+  {
+    "rank": 112,
+    "artist": "Enrico Caruso",
+    "song": "Vesti La Giubba (On With The Play) (1907)",
+    "year": 1907,
+    "misc": "US Billboard 1 - Aug 1907 (9 weeks), Grammy Hall of Fame in 1975 (1907), Library of Congress artifact added 2002 (1907), aceterrier.com 10 of 1900-19 (1907), Brazil 7 of 1908, Music Imprint 9 of 1910s, RIAA 329"
+  },
+  {
+    "rank": 113,
+    "artist": "Bert Williams",
+    "song": "Nobody",
+    "year": 1906,
+    "misc": "US Billboard 1 - Jul 1906 (14 weeks), Grammy Hall of Fame in 1981 (1906), aceterrier.com 1 of 1900-19 (1906), Brazil 10 of 1907"
+  },
+  {
+    "rank": 114,
+    "artist": "Billy Murray",
+    "song": "Give My Regards to Broadway",
+    "year": 1905,
+    "misc": "US Billboard 1 - Jun 1905 (11 weeks), Grammy Hall of Fame in 2008 (1905), aceterrier.com 7 of 1900-19 (1905), Brazil 21 of 1906"
+  },
+  {
+    "rank": 115,
+    "artist": "Haydn Quartet",
+    "song": "Sweet Adeline (You're the Flower of My Heart)",
+    "year": 1904,
+    "misc": "US Billboard 1 - Oct 1904 (17 weeks), aceterrier.com 5 of 1900-19 (1904), Brazil 13 of 1905"
+  },
+  {
+    "rank": 116,
+    "artist": "Haydn Quartet",
+    "song": "In the Good Old Summer Time",
+    "year": 1903,
+    "misc": "US Billboard 1 - Feb 1903 (12 weeks), Brazil 16 of 1904"
+  },
+  {
+    "rank": 117,
+    "artist": "Byron G Harlan, Joe Belmont & the Florodra Girls",
+    "song": "Tell Me Pretty Maiden",
+    "year": 1902,
+    "misc": "US Billboard 1 - Jun 1901 (6 weeks), Peel list 2 of 1902, Brazil 34 of 1902"
+  },
+  {
+    "rank": 118,
+    "artist": "Sousa's Band",
+    "song": "Stars & Stripes Forever",
+    "year": 1901,
+    "misc": "US Billboard 1 - Feb 1901 (8 weeks), Grammy Hall of Fame in 1998 (1900), Library of Congress artifact added 2002 (1900), Music Imprint 3 of 1900s, RIAA 20, Brazil 23 of 1903"
+  },
+  {
+    "rank": 119,
+    "artist": "George J Gaskin",
+    "song": "When You Were Sweet Sixteen",
+    "year": 1900,
+    "misc": "US Billboard 1 - Nov 1900 (10 weeks)"
+  }
+ ]
