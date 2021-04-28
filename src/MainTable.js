@@ -235,20 +235,13 @@ export default function MainTable() {
 useEffect( ()=> {
      db.collection('main').orderBy('score', 'desc').limit(2).get()
      .then( function(querySnapshot) {
-      let download = [];
+ 
        querySnapshot.forEach(function(doc) {
-        download.push(doc.data())
+        setData(data => [...data, doc.data()]);
         console.log('dis', doc.data())
  }) 
- setData(data => [...data, download]);
-
- return data
-     }).then(
-       (dl => {
-        console.log('data',data);
-        rows=dl;
-       })
-     ).catch((err)=>console.log(err,'there was an error'))
+ console.log('data',data);
+     }).catch((err)=>console.log(err,'there was an error'))
  },[])
 ;
 

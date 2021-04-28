@@ -79,7 +79,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function PrimarySearchAppBar() {
+export default function PrimarySearchAppBar({drawOpen, setDrawOpen, toggleDrawer, menuDirection}) {
   const classes = useStyles();
   const [anchorEl, setAnchorEl] = useState(null);
   const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = useState(null);
@@ -168,6 +168,7 @@ export default function PrimarySearchAppBar() {
       <AppBar position="static">
         <Toolbar>
           <IconButton
+            onClick={toggleDrawer(menuDirection, true) }
             edge="start"
             className={classes.menuButton}
             color="inherit"
@@ -176,9 +177,9 @@ export default function PrimarySearchAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography className={classes.title} variant="h6" noWrap>
-            Material-UI
+            Tube Charts
           </Typography>
-          <div className={classes.search}>
+          {/* <div className={classes.search}>
             <div className={classes.searchIcon}>
               <SearchIcon />
             </div>
@@ -190,7 +191,7 @@ export default function PrimarySearchAppBar() {
               }}
               inputProps={{ 'aria-label': 'search' }}
             />
-          </div>
+          </div> */}
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>
             <IconButton aria-label="show 4 new mails" color="inherit">
