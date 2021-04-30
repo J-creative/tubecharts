@@ -4,15 +4,20 @@ const admin = require("firebase-admin");
 admin.initializeApp();
 const fetch = require("node-fetch");
 var fs = require('fs');
-const path = require('path')
+const path = require('path');
+const { run } = require("googleapis/build/src/apis/run");
 
 //you api AIzaSyBQ4HoKB5aAx2vV5RgW97v-qflPqY_dH64
 
 
+// The Chartist function uploads json to the database with order as the id
+// the other functions are for adding tags and should be 
+// tagdefault>tagcounter> then genre add repeatedly until tags are a;; added
+
 exports.chartist = functions.https.onRequest((request, response) => {
     let data;
     try {
-       data = JSON.parse(fs.readFileSync('/Users/Jacob/Documents/webDev/tubecharts/functions/sample.json','utf8'));
+       data = JSON.parse(fs.readFileSync('/Users/Jacob/Documents/webDev/tubecharts/functions/safe.json','utf8'));
       console.log('got data')
 
     } catch (err) {
@@ -22,7 +27,9 @@ exports.chartist = functions.https.onRequest((request, response) => {
 
 new Promise((res,rej)=>{
 data.forEach(hit =>{
-admin.firestore().collection("safe").add(hit)
+  const title=hit.rank+''
+  console.log(title)
+admin.firestore().collection("safe").doc(title).set(hit)
 })
 
 res('sucess');
@@ -46,44 +53,9 @@ const runtimeOpts = {
 }
 exports.genreAdd = functions.runWith(runtimeOpts).https.onRequest((request, response) => {
 
-//get the data from firestore
-// async function addGen(){
-//  admin.firestore().collection('sample').get()
-//   .then( (dataSnap)=>{
-//     console.log(dataSnap);
-//     dataSnap.map(async doc=>{
-//         console.log('in',doc.data().artist);
-//         const response = await fetch(`https://musicbrainz.org/ws/2/artist?query=${doc.data().artist}&limit=3&inc=tags&fmt=json`);
-//         const data = await response.json();
-//         const artobject= data.artists[0];
-//          doc.ref.set({artobject},{merge:true})
-//     })
-
-// }).then( (res)=> response.send(res)).catch((err)=>console.log(err))
-// }
-// addGen();
-
-// new Promise((res,rej)=>{
-//   let docs;
-//   admin.firestore().collection('safe').get()
-//   .then( function(querySnapshot) {
-//      docs=querySnapshot
-//   })
-  
-//   res(docs);
-//   rej('fail');
-//   }).then((docs)=>{
-//     docs.forEach((doc)=>{
-
-
-//     })
-
-//   })
-//   .catch((rej2)=>  response.send(rej2))
-  
 
 addgen();
-function addgen(){ admin.firestore().collection('nineforty').where("tagcount", "==", 1).get()
+function addgen(){ admin.firestore().collection('main').where("tagcount", "==", 1).limit(10000).get()
   .then(async function(querySnapshot) {
     await Promise.allSettled( querySnapshot.docs.map(async function(doc) {
       console.log('firebase:',doc.data().song);
@@ -115,16 +87,33 @@ function addgen(){ admin.firestore().collection('nineforty').where("tagcount", "
 exports.tagcounter= functions.runWith(runtimeOpts).https.onRequest((request, response) => {
 
   addgen();
-  function addgen(){ admin.firestore().collection('nineforty').get()
+  function addgen(){ admin.firestore().collection('safe').get()
     .then( function(querySnapshot) {
       querySnapshot.docs.forEach( function(doc) {
         console.log('firebase:',doc.data().song);
 
         doc.ref.update({
-          //tags: admin.firestore.FieldValue.arrayUnion("default"),
+        
                         tagcount:doc.data().tags.length
                       })
       })
       response.send('done')
     })
   }})
+
+  exports.tagdefault= functions.runWith(runtimeOpts).https.onRequest((request, response) => {
+
+    addgen();
+    function addgen(){ admin.firestore().collection('safe').get()
+      .then( function(querySnapshot) {
+        querySnapshot.docs.forEach( function(doc) {
+          console.log('firebase:',doc.data().song);
+  
+          doc.ref.update({
+            tags: admin.firestore.FieldValue.arrayUnion("default"),
+                          
+                        })
+        })
+        response.send('done')
+      })
+    }})

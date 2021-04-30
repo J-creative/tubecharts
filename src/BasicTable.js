@@ -33,7 +33,7 @@ export default function BasicTable() {
 const[rows,setRows] = useState([]);
 
 useEffect(()=>{
-        db.collection('main').orderBy('score', 'desc').limit(50).get()
+        db.collection('main').orderBy('Score', 'desc').limit(50).get()
         .then( function(querySnapshot) {
     
           querySnapshot.forEach(function(doc) {
@@ -50,7 +50,7 @@ useEffect(()=>{
         <TableHead>
           <TableRow>
             <TableCell>Artist</TableCell>
-            <TableCell align="right">Song</TableCell>
+            <TableCell align="left">Song</TableCell>
             <TableCell align="right">Year</TableCell>
             <TableCell align="right">Score</TableCell>
             <TableCell align="right">Views</TableCell>
@@ -62,9 +62,9 @@ useEffect(()=>{
               <TableCell component="th" scope="row">
                 {row.artist}
               </TableCell>
-              <TableCell align="right">{row.song}</TableCell>
+              <TableCell align="left">{row.song}</TableCell>
               <TableCell align="right">{row.year}</TableCell>
-              <TableCell align="right">{row.score}</TableCell>
+              <TableCell align="right">{row.Score}</TableCell>
               <TableCell align="right">{row.views}</TableCell>
             </TableRow>
           ))}

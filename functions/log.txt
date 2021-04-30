@@ -68,3 +68,261 @@ function toString() { [native code] }
 [object Object]
 [object Object]
 [object Object]
+4.5M views8.4M views442K views23M views4.1M views12M views"4.5M viewshello \n""8.4M viewshello \n""37K viewshello \n""23M viewshello \n""113K viewshello \n""12M viewshello \n""2.8M viewshello \n""3.6M viewshello \n""168K viewshello \n""4.5M viewshello \r\n""8.4M viewshello \r\n""4.5M viewshello"
+"8.4M viewshello"
+"442K viewshello"
+"4.5M viewshello"
+"8.4M viewshello"
+"442K viewshello"
+"23M viewshello"
+"4.1M viewshello"
+"12M viewshello"
+"27M viewshello"
+"3.6M viewshello"
+"168K viewshello"
+"49M viewshello"
+"756K viewshello"
+"245K viewshello"
+"874K viewshello"
+"2.2M viewshello"
+"0hello"
+"718K viewshello"
+"189K viewshello"
+"4.5M views0"
+"8.4M views35K views"
+"442K views229K views"
+"23M views0"
+"4.1M views0"
+"00"
+"27M views0"
+"3.6M views0"
+"168K views0"
+"49M views0"
+"756K views0"
+"245K views0"
+"874K views0"
+"2.2M views0"
+"00"
+"718K views0"
+"189K views0"
+"4.5M views0"
+"8.4M views35K views"
+"442K views229K views"
+"23M views33K views"
+"4.1M views0"
+"12M views88K views"
+"27M views59K views"
+"3.6M views1.7M views"
+"168K views5.2K views"
+"49M views212K views"
+"756K views295K views"
+"245K views435K views"
+"874K views197K views"
+"2.2M views414K views"
+"085K views"
+"718K views3.9K views"
+"543K views0"
+{"v1":"4.5M views","v2":"1.5M views","v3":"2.4M views","v4":"2.3M views","v5":"0"}
+{"v1":"8.4M views","v2":"148K views","v3":"200K views","v4":"35K views","v5":"35K views"}
+{"v1":"442K views","v2":"37K views","v3":"0","v4":"11K views","v5":"229K views"}
+{"v1":"23M views","v2":"553K views","v3":"3.7M views","v4":"90K views","v5":"33K views"}
+{"v1":"4.1M views","v2":"113K views","v3":"10K views","v4":"212K views","v5":"0"}
+{"v1":"0","v2":"12M views","v3":"592K views","v4":"1.6M views","v5":"329K views"}
+{"v1":"27M views","v2":"2.8M views","v3":"1.7M views","v4":"0","v5":"59K views"}
+{"v1":"3.6M views","v2":"848K views","v3":"323K views","v4":"0","v5":"1.7M views"}
+{"v1":"168K views","v2":"201K views","v3":"52K views","v4":"165K views","v5":"5.2K views"}
+{"v1":"49M views","v2":"7.9M views","v3":"238K views","v4":"710K views","v5":"1.6M views"}
+{"v1":"756K views","v2":"23K views","v3":"44K views","v4":"433K views","v5":"295K views"}
+{"v1":"245K views","v2":"1.6M views","v3":"159K views","v4":"0","v5":"435K views"}
+{"v1":"874K views","v2":"1M views","v3":"1.1M views","v4":"326K views","v5":"197K views"}
+{"v1":"2.2M views","v2":"686K views","v3":"0","v4":"96K views","v5":"414K views"}
+{"v1":"0","v2":"1.4M views","v3":"2M views","v4":"266K views","v5":"85K views"}
+{"v1":"718K views","v2":"16K views","v3":"68K views","v4":"11K views","v5":"3.9K views"}
+{"v1":"189K views","v2":"543K views","v3":"33K views","v4":"1.8K views","v5":"0"}
+{"v1":"4.5M views","v2":"1.5M views","v3":"2.4M views","v4":"2.3M views","v5":"0"}
+{"v1":"8.4M views","v2":"148K views","v3":"200K views","v4":"35K views","v5":"35K views"}
+{"v1":"442K views","v2":"37K views","v3":"0","v4":"11K views","v5":"229K views"}
+{"v1":"23M views","v2":"553K views","v3":"3.7M views","v4":"90K views","v5":"33K views"}
+{"v1":"4.1M views","v2":"113K views","v3":"10K views","v4":"212K views","v5":"0"}
+{"v1":"12M views","v2":"592K views","v3":"1.6M views","v4":"329K views","v5":"0"}
+{"v1":"27M views","v2":"2.8M views","v3":"1.7M views","v4":"0","v5":"59K views"}
+{"v1":"3.6M views","v2":"848K views","v3":"323K views","v4":"0","v5":"1.7M views"}
+{"v1":"168K views","v2":"201K views","v3":"52K views","v4":"165K views","v5":"5.2K views"}
+{"v1":"49M views","v2":"7.9M views","v3":"238K views","v4":"710K views","v5":"1.6M views"}
+{"v1":"756K views","v2":"23K views","v3":"44K views","v4":"433K views","v5":"295K views"}
+{"v1":"245K views","v2":"1.6M views","v3":"159K views","v4":"0","v5":"435K views"}
+{"v1":"874K views","v2":"1M views","v3":"1.1M views","v4":"326K views","v5":"197K views"}
+{"v1":"2.2M views","v2":"686K views","v3":"0","v4":"96K views","v5":"4.2K views"}
+{"v1":"0","v2":"1.4M views","v3":"2M views","v4":"266K views","v5":"0"}
+{"v1":"718K views","v2":"16K views","v3":"68K views","v4":"11K views","v5":"3.9K views"}
+{"v1":"189K views","v2":"543K views","v3":"33K views","v4":"1.8K views","v5":"0"}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+7140000
+8388000
+490000
+26623000
+4133000
+13652000
+30150000
+4231000
+421000
+56328000
+823000
+1464000
+2884000
+2802000
+3306000
+802000
+765000
+07140000
+08388000
+0490000
+023643000
+04133000
+013652000
+030150000
+04231000
+0421000
+056328000
+0823000
+01464000
+02884000
+02802000
+03306000
+0802000
+0765000
+"0. "7140000
+"0. "8388000
+"0. "490000
+"0. "23570000
+"0. "4133000
+"0. "13652000
+"0. "30150000
+"0. "4231000
+"0. "421000
+"0. "56328000
+"0. "823000
+"0. "1464000
+"0. "2884000
+"0. "2802000
+"0. "3306000
+"0. "802000
+"0. "765000
+"0."7140000
+"1."8388000
+"2."490000
+"3."23643000
+"4."4133000
+"5."13652000
+"6."30150000
+"7."4231000
+"8."421000
+"9."56328000
+"10."823000
+"11."1464000
+"12."2884000
+"13."2802000
+"14."3306000
+"15."802000
+"16."765000
+"0. \""7140000,7140000
+"1. \""8388000,8388000
+"2. \""490000,490000
+"3. \""23643000,23643000
+"4. \""4133000,4133000
+"5. \""13652000,13652000
+"6. \""30150000,30150000
+"7. \""4231000,4231000
+"8. \""421000,421000
+"9. \""56328000,56328000
+"10. \""823000,823000
+"11. \""1464000,1464000
+"12. \""2884000,2884000
+"13. \""2802000,2802000
+"14. \""3306000,3306000
+"15. \""802000,802000
+"16. \""765000,765000
+"0\t"7140000	"Slade"
+"1\t"8388000	"Marie Osmond"
+"2\t"490000	"Tony Orlando & Dawn"
+"3\t"23643000	"Steely Dan"
+"4\t"4133000	"The Sweet"
+"5\t"13652000	"Stevie Wonder"
+"6\t"30150000	"Gladys Knight & The Pips"
+"7\t"4231000	"Slade"
+"8\t"421000	"Wizzard"
+"9\t"56328000	"Jim Croce"
+"10\t"823000	"Clint Holmes"
+"11\t"1464000	"Edward Bear"
+"12\t"2884000	"The Allman Brothers Band"
+"13\t"2802000	"Vicki Lawrence"
+"14\t"3306000	"Slade"
+"15\t"802000	"Slade"
+"16\t"765000	"Wings"
+0"Slade"	"Merry Xmas Everybody"	"1973"	7140000
+1"Marie Osmond"	"Paper Roses"	"1973"	8388000
+2"Tony Orlando & Dawn"	"Say, Has Anybody Seen My Sweet Gypsy Rose?"	"1973"	490000
+3"Steely Dan"	"Do it Again"	"1973"	23643000
+4"The Sweet"	"Hell Raiser"	"1973"	4133000
+5"Stevie Wonder"	"Higher Ground"	"1973"	13652000
+6"Gladys Knight & The Pips"	"Neither One of Us (Wants to be The First to Say Goodbye)"	"1973"	30150000
+7"Slade"	"Cum On Feel the Noize"	"1973"	4231000
+8"Wizzard"	"See My Baby Jive"	"1973"	421000
+9"Jim Croce"	"Time in a Bottle"	"1973"	56328000
+10"Clint Holmes"	"Playground In My Mind"	"1973"	823000
+11"Edward Bear"	"The Last Song"	"1973"	1464000
+12"The Allman Brothers Band"	"Ramblin' Man"	"1973"	2884000
+13"Vicki Lawrence"	"The Night The Lights Went Out In Georgia"	"1973"	2802000
+14"Slade"	"Gudbye T'Jane"	"1973"	3306000
+15"Slade"	"My Friend Stan"	"1973"	802000
+16"Wings"	"Hi Hi Hi"	"1973"	765000
+0	"Slade"	"Merry Xmas Everybody"	"1973"	7140000
+1	"Marie Osmond"	"Paper Roses"	"1973"	8388000
+2	"Tony Orlando & Dawn"	"Say, Has Anybody Seen My Sweet Gypsy Rose?"	"1973"	490000
+3	"Steely Dan"	"Do it Again"	"1973"	23643000
+4	"The Sweet"	"Hell Raiser"	"1973"	4133000
+5	"Stevie Wonder"	"Higher Ground"	"1973"	13652000
+6	"Gladys Knight & The Pips"	"Neither One of Us (Wants to be The First to Say Goodbye)"	"1973"	30150000
+7	"Slade"	"Cum On Feel the Noize"	"1973"	4231000
+8	"Wizzard"	"See My Baby Jive"	"1973"	421000
+9	"Jim Croce"	"Time in a Bottle"	"1973"	56328000
+10	"Clint Holmes"	"Playground In My Mind"	"1973"	823000
+11	"Edward Bear"	"The Last Song"	"1973"	1464000
+12	"The Allman Brothers Band"	"Ramblin' Man"	"1973"	2884000
+13	"Vicki Lawrence"	"The Night The Lights Went Out In Georgia"	"1973"	2802000
+14	"Slade"	"Gudbye T'Jane"	"1973"	3306000
+15	"Slade"	"My Friend Stan"	"1973"	802000
+16	"Wings"	"Hi Hi Hi"	"1973"	765000

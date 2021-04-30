@@ -1,0 +1,17 @@
+6394	"Glenn Miller"	"In the Mood"	"1940"	49100000
+6395	"Artie Shaw"	"Frenesi"	"1940"	2310000
+6396	"Tommy Dorsey & Frank Sinatra"	"I'll Never Smile Again"	"1940"	2116000
+6397	"Cliff Edwards (Ukelele Ike)"	"When You Wish Upon a Star"	"1940"	263100
+6398	"Bing Crosby"	"Only Forever"	"1940"	606600
+6399	"Glenn Miller"	"When You Wish Upon a Star"	"1940"	25424
+6400	"The Ink Spots"	"Whispering Grass (Don't Tell the Trees)"	"1940"	527095
+6401	"Jimmy Dorsey"	"The Breeze & I"	"1940"	48325
+6402	"Jimmie Davis"	"You Are My Sunshine"	"1940"	3318000
+6394	"Glenn Miller"	"In the Mood"	"1940"	45100000
+6395	"Artie Shaw"	"Frenesi"	"1940"	2310000
+6396	"Tommy Dorsey & Frank Sinatra"	"I'll Never Smile Again"	"1940"	2116000
+6397	"Cliff Edwards (Ukelele Ike)"	"When You Wish Upon a Star"	"1940"	263100
+6398	"Bing Crosby"	"Only Forever"	"1940"	606600
+6399	"Glenn Miller"	"When You Wish Upon a Star"	"1940"	25424
+6400	"The Ink Spots"	"Whispering Grass (Don't Tell the Trees)"	"1940"	527095
+6401	"Jimmy Dorsey"	"The Breeze & I"	"1940"	48325

@@ -37,7 +37,9 @@ function App() {
     bottom: false,
     right: false,
   });
-  const[menuDirection, setMenuDirection] = useState('left')
+  const[menuDirection, setMenuDirection] = useState('left');
+
+const[tagList,setTagList]= useState(['40s','50s','60s','70s','80s','90s','00s','10s','rock'])
 
   const toggleDrawer = (anchor, open) => (event) => {
     console.log('clicked', anchor, open)
