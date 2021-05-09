@@ -167,7 +167,7 @@ export default function PrimarySearchAppBar({drawOpen, setDrawOpen, toggleDrawer
     <div className={classes.grow}>
       <AppBar position="static">
         <Toolbar>
-          <IconButton
+          {/* <IconButton
             onClick={toggleDrawer(menuDirection, true) }
             edge="start"
             className={classes.menuButton}
@@ -175,7 +175,7 @@ export default function PrimarySearchAppBar({drawOpen, setDrawOpen, toggleDrawer
             aria-label="open drawer"
           >
             <MenuIcon />
-          </IconButton>
+          </IconButton> */}
           <Typography className={classes.title} variant="h6" noWrap>
             Tube Charts
           </Typography>

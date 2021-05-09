@@ -100,7 +100,7 @@ function numberize(str){
   console.log(str);
     if(!str){return 0}//turns into search query
     str = str.replace(/ views/g, '').replace(/K/g, '000').replace(/M/g, '000000').replace(/B/g, '000000000');
-    if(str.match(/\./g, '000')){str = str.replace(/0/, '').replace(/\./, '')}
+    if(str.match(/\./g, '000')){str = str.replace(/0/, '').replace(/\./, '')}//why the '000' in match?
     return parseInt(str)
     }
 

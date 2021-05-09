@@ -48,7 +48,7 @@ exports.helloWorld = functions.https.onRequest((request, response) => {
 });
 
 const runtimeOpts = {
-  timeoutSeconds: 120,
+  timeoutSeconds: 180,
   memory: '1GB'
 }
 exports.genreAdd = functions.runWith(runtimeOpts).https.onRequest((request, response) => {
@@ -117,3 +117,42 @@ exports.tagcounter= functions.runWith(runtimeOpts).https.onRequest((request, res
         response.send('done')
       })
     }})
+
+    exports.updater= functions.runWith(runtimeOpts).https.onRequest((request, response) => {
+
+      addgen();
+      function addgen(){ admin.firestore().collection('main').get()
+        .then( function(querySnapshot) {
+          querySnapshot.docs.forEach( function(doc) {
+            console.log('firebase:',doc.data().song);
+              let d = Math.floor(doc.data().year/10) %10;
+              d=d+'0s';
+            doc.ref.update({
+            decade: d,       
+                          })
+          })
+          response.send('done')
+        })
+      }})
+
+      exports.tagLister= functions.runWith(runtimeOpts).https.onRequest((request, response) => {
+
+        addgen();
+        function addgen(){ admin.firestore().collection('main').get()
+          .then( function(querySnapshot) {
+            querySnapshot.docs.forEach( function(doc) {
+              console.log('firebase:',doc.data().tags);
+              doc.data().tags.forEach((tag)=>{
+                if(tag !='default'){
+                  tag=tag.replace(/\//, ' or');
+                admin.firestore().collection('tags').doc(tag).set(
+                  {name: tag,
+                  count: admin.firestore.FieldValue.increment(1)},
+                  {merge:true})
+              }})
+
+           
+            })
+            response.send('done')
+          })
+        }})

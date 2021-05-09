@@ -9,6 +9,15 @@ import Paper from '@material-ui/core/Paper';
 import { useEffect, useState } from 'react';
 import { db } from './fire'
 
+function abbreviateNumber (value) { //slight ammendment of chucktator's function from stackOverflow
+  var suffixes = ["", "K", "M", "B","T"];
+  var suffixNum = Math.floor(((""+value).length-1)/3);
+  var shortValue = parseFloat((suffixNum != 0 ? (value / Math.pow(1000,suffixNum)) : value).toPrecision(3));
+  if (shortValue % 1 != 0) {
+      shortValue = shortValue.toFixed(1);
+  }
+  return shortValue+suffixes[suffixNum];
+}
 
 const useStyles = makeStyles({
   table: {
@@ -28,12 +37,12 @@ const rows = [
   createData('Gingerbread', 356, 16.0, 49, 3.9),
 ];
 
-export default function BasicTable() {
+export default function BasicTable({rows,setRows}) {
   const classes = useStyles();
-const[rows,setRows] = useState([]);
+
 
 useEffect(()=>{
-        db.collection('main').orderBy('Score', 'desc').limit(50).get()
+        db.collection('main').orderBy('rank').limit(30).get()
         .then( function(querySnapshot) {
     
           querySnapshot.forEach(function(doc) {
@@ -64,8 +73,8 @@ useEffect(()=>{
               </TableCell>
               <TableCell align="left">{row.song}</TableCell>
               <TableCell align="right">{row.year}</TableCell>
-              <TableCell align="right">{row.Score}</TableCell>
-              <TableCell align="right">{row.views}</TableCell>
+              <TableCell align="right">{row.score.toFixed(2)}</TableCell>
+              <TableCell align="right">{abbreviateNumber(row.views)}</TableCell>
             </TableRow>
           ))}
         </TableBody>

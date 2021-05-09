@@ -38,8 +38,9 @@ function App() {
     right: false,
   });
   const[menuDirection, setMenuDirection] = useState('left');
+  const[rows,setRows] = useState([]);
 
-const[tagList,setTagList]= useState(['40s','50s','60s','70s','80s','90s','00s','10s','rock'])
+const[tagList,setTagList]= useState(['40s','50s','60s','70s','80s','90s','00s','10s'])
 
   const toggleDrawer = (anchor, open) => (event) => {
     console.log('clicked', anchor, open)
@@ -58,11 +59,11 @@ const[tagList,setTagList]= useState(['40s','50s','60s','70s','80s','90s','00s','
     <div className="App">
  <ThemeProvider theme={theme}>
  <CssBaseline/>
-      <MyDrawer drawOpen ={drawOpen} setDrawOpen={setDrawOpen} toggleDrawer={toggleDrawer} menuDirection={menuDirection} />
+      {/* <MyDrawer drawOpen ={drawOpen} setDrawOpen={setDrawOpen} toggleDrawer={toggleDrawer} menuDirection={menuDirection} /> */}
     <PrimarySearchAppBar drawOpen ={drawOpen} setDrawOpen={setDrawOpen} toggleDrawer={toggleDrawer} menuDirection={menuDirection}/>
       <Container maxWidth="md">
-      <Chips/>
-      <BasicTable/>
+      <Chips  rows={rows} setRows={setRows} tagList={tagList} setTagList={setTagList} />
+      <BasicTable rows={rows} setRows={setRows} />
       </Container>
    </ThemeProvider>
     </div>
